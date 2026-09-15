@@ -96,8 +96,8 @@
     {
       "namespace": "RandyKnapp",
       "name": "EquipmentAndQuickSlots",
-      "version": "3.1.2",
-      "url": "https://thunderstore.io/package/download/RandyKnapp/EquipmentAndQuickSlots/3.1.2/"
+      "version": "3.1.3",
+      "url": "https://thunderstore.io/package/download/RandyKnapp/EquipmentAndQuickSlots/3.1.3/"
     },
     {
       "namespace": "RandyKnapp",
@@ -212,27 +212,27 @@
     {
       "path": "BepInEx/config/Azumatt.AzuAntiArthriticCrafting.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.AzuAntiArthriticCrafting.cfg",
-      "sha256": "04afa217484396ba00b884bf0fab4e1c9772d67ab001aa6c20463f6e5411cb12"
+      "sha256": "09a194f5ec19ce33bd060a76959e01b411b2fd1f65dbc44632661125cf1247e0"
     },
     {
       "path": "BepInEx/config/Azumatt.AzuClock.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.AzuClock.cfg",
-      "sha256": "820f63c67222ef4c2ae2811a7056c8bd00af7dce456a9f7a3afa8df04efd4bb0"
+      "sha256": "e2c92c237e56b0d0bd80910bb948eee5bac19203ede2b1f74746bfc901b754c5"
     },
     {
       "path": "BepInEx/config/Azumatt.AzuContainerSizes.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.AzuContainerSizes.cfg",
-      "sha256": "67c78f5bdb6e244f72ac1c4a72d4f9c48851c7b3670661733449353500be1e5e"
+      "sha256": "bc4ea88ae8e7052d0918378ea474dd1a820794bf0fc57d1ab02459166425ab6b"
     },
     {
       "path": "BepInEx/config/Azumatt.AzuCraftyBoxes.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.AzuCraftyBoxes.cfg",
-      "sha256": "6a365ab9165f2696f4c75b0bcd3f3a5a27463a45c54c79904810299e5bf36599"
+      "sha256": "104a3b487a3f865a12be13befc201d6850601ec55e3393eab12fe85e42f807d9"
     },
     {
       "path": "BepInEx/config/Azumatt.AzuWearNTearPatches.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.AzuWearNTearPatches.cfg",
-      "sha256": "72823165b663d8027866b29fd8c82c7808f10d24a20871cf70c671800e70adaf"
+      "sha256": "ed705259f1da35b4771f80efd4245e081b6f38e0c4a370a7f7404c6f0bdb3fe8"
     },
     {
       "path": "BepInEx/config/Azumatt.AzuWorkbenchTweaks.cfg",
@@ -257,7 +257,7 @@
     {
       "path": "BepInEx/config/RustyMods.Seasonality.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/RustyMods.Seasonality.cfg",
-      "sha256": "675474631b04c43980a5c5104fe2ed65f898a60668a4ab02d5dbeb05e90e9741"
+      "sha256": "516bfb1e8a9f0ceea029cc3bc86464ba94b3eba74c284cef629532f8d6d19cd2"
     },
     {
       "path": "BepInEx/config/ValheimLegends.cfg",
@@ -267,7 +267,12 @@
     {
       "path": "BepInEx/config/WackyMole.Hearthstone.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/WackyMole.Hearthstone.cfg",
-      "sha256": "1040f7222d2e21a6b222bac649958c35d4185e6a88cc58932e782dafff62f643"
+      "sha256": "c4b43cfd13567130e4b2464f5695b9c6d1ede81003a32365dc3a474fc1a4a03c"
+    },
+    {
+      "path": "BepInEx/config/aaa.drummercraig.shaderhelperformac.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/aaa.drummercraig.shaderhelperformac.cfg",
+      "sha256": "d116818f50af1948e784d831379363481e338290fb5e04572e440fc9744327c1"
     },
     {
       "path": "BepInEx/config/advize.PlantEasily.cfg",
@@ -322,12 +327,12 @@
     {
       "path": "BepInEx/config/randyknapp.mods.epicloot.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/randyknapp.mods.epicloot.cfg",
-      "sha256": "e3c7bdf6621f3a160df37910a300a6c5543be802c1647af3cff6c4d2be8527ab"
+      "sha256": "3d2a04ca2a0644e0fb72c1404684bb3ecdd6822a839ce6b50de44fd1a02c7c72"
     },
     {
       "path": "BepInEx/config/randyknapp.mods.equipmentandquickslots.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/randyknapp.mods.equipmentandquickslots.cfg",
-      "sha256": "9eded47cbeb2048693d2316616de2d95e1eeb1bbcc4c53c7638184c2fe153fdb"
+      "sha256": "08b9e4fe472cd08ddd268b13a2135af0f4aab96a947d7272c444daea10c3f6b4"
     },
     {
       "path": "BepInEx/config/randyknapp.mods.jam.cfg",
