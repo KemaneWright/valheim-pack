@@ -1,8 +1,8 @@
 # Midgard
 
-Pack version: `2026.09.14`
+Pack version: `2026.09.15`
 
-This is the public friends pack (`KemaneWright/valheim-pack`). Commit and push this repository. Friends' launchers pull the raw `manifest.json` URL. The manager/launcher source stays in the private `valheim-launcher` repo.
+This is the public friends pack (`KemaneWright/valheim-pack`). **Publish Profile** in the manager writes, commits, and pushes this repository. Friends' launchers pull the raw `manifest.json` URL. The manager/launcher source stays in the private `valheim-launcher` repo.
 
 This does **not** update the dedicated server — use the manager **Sync to server** action for Docker BepInEx plugins/configs.
 

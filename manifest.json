@@ -1,5 +1,5 @@
 {
-  "pack_version": "2026.09.14",
+  "pack_version": "2026.09.15",
   "game": "valheim",
   "manifest_url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/manifest.json",
   "bepinex": {
@@ -31,43 +31,43 @@
       "namespace": "Azumatt",
       "name": "AzuClock",
       "version": "1.1.0",
-      "url": "https://cdn.hexium.gg/upload/248/1.1.0.zip"
+      "url": "https://thunderstore.io/package/download/Azumatt/AzuClock/1.1.0/"
     },
     {
       "namespace": "Azumatt",
       "name": "AzuContainerSizes",
-      "version": "1.1.5",
-      "url": "https://cdn.hexium.gg/upload/249/1.1.5.zip"
+      "version": "1.1.7",
+      "url": "https://cdn.hexium.gg/upload/249/1.1.7.zip"
     },
     {
       "namespace": "Azumatt",
       "name": "AzuCraftyBoxes",
-      "version": "1.8.19",
-      "url": "https://cdn.hexium.gg/upload/48/1.8.19.zip"
+      "version": "1.8.20",
+      "url": "https://cdn.hexium.gg/upload/48/1.8.20.zip"
     },
     {
       "namespace": "Azumatt",
       "name": "AzuWearNTearPatches",
       "version": "1.0.9",
-      "url": "https://cdn.hexium.gg/upload/252/1.0.9.zip"
+      "url": "https://thunderstore.io/package/download/Azumatt/AzuWearNTearPatches/1.0.9/"
     },
     {
       "namespace": "Azumatt",
       "name": "AzuWorkbenchTweaks",
       "version": "1.0.7",
-      "url": "https://cdn.hexium.gg/upload/253/1.0.7.zip"
+      "url": "https://thunderstore.io/package/download/Azumatt/AzuWorkbenchTweaks/1.0.7/"
     },
     {
       "namespace": "Azumatt",
       "name": "Recycle_N_Reclaim",
       "version": "1.4.4",
-      "url": "https://cdn.hexium.gg/upload/226/1.4.4.zip"
+      "url": "https://thunderstore.io/package/download/Azumatt/Recycle_N_Reclaim/1.4.4/"
     },
     {
       "namespace": "Azumatt",
       "name": "TrueInstantLootDrop",
       "version": "1.0.4",
-      "url": "https://cdn.hexium.gg/upload/288/1.0.4.zip"
+      "url": "https://thunderstore.io/package/download/Azumatt/TrueInstantLootDrop/1.0.4/"
     },
     {
       "namespace": "BetterUI_ForeverMaintained",
@@ -114,8 +114,8 @@
     {
       "namespace": "RustyMods",
       "name": "Seasonality",
-      "version": "3.8.2",
-      "url": "https://thunderstore.io/package/download/RustyMods/Seasonality/3.8.2/"
+      "version": "3.8.3",
+      "url": "https://thunderstore.io/package/download/RustyMods/Seasonality/3.8.3/"
     },
     {
       "namespace": "Smoothbrain",
@@ -204,8 +204,8 @@
     {
       "namespace": "shudnal",
       "name": "ConditionalConfigSync",
-      "version": "1.0.6",
-      "url": "https://thunderstore.io/package/download/shudnal/ConditionalConfigSync/1.0.6/"
+      "version": "1.0.8",
+      "url": "https://thunderstore.io/package/download/shudnal/ConditionalConfigSync/1.0.8/"
     }
   ],
   "configs": [
