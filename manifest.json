@@ -1,5 +1,5 @@
 {
-  "pack_version": "2026.09.15",
+  "pack_version": "2026.09.16",
   "game": "valheim",
   "manifest_url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/manifest.json",
   "bepinex": {
@@ -290,6 +290,11 @@
       "sha256": "d142e58d6d05b8c990cf30f29de02d8aab1ae9a0f5136710a95b5d5612a3f1c1"
     },
     {
+      "path": "BepInEx/config/infinity_hammer.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/infinity_hammer.cfg",
+      "sha256": "aef86bc2841d72976844f3395cc13fce0d54403e5cc80d61e139f73bdcc74b88"
+    },
+    {
       "path": "BepInEx/config/org.bepinex.plugins.conversionsizespeed.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.conversionsizespeed.cfg",
       "sha256": "9fbbb041721667a65c916d67845df08f9073cc4574dbfea68ea782806f759b12"
@@ -332,7 +337,7 @@
     {
       "path": "BepInEx/config/randyknapp.mods.equipmentandquickslots.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/randyknapp.mods.equipmentandquickslots.cfg",
-      "sha256": "08b9e4fe472cd08ddd268b13a2135af0f4aab96a947d7272c444daea10c3f6b4"
+      "sha256": "377dd4a380023f06960c59f6b8f033468bc14d2f092d7a304193a3193d1f077d"
     },
     {
       "path": "BepInEx/config/randyknapp.mods.jam.cfg",
@@ -343,6 +348,11 @@
       "path": "BepInEx/config/randyknapp.mods.minimalstatuseffects.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/randyknapp.mods.minimalstatuseffects.cfg",
       "sha256": "e5f3b84a7e93497a6e73043ecd89c3576f5e5fb8e4e9a892dfa1ed2bec0a724a"
+    },
+    {
+      "path": "BepInEx/config/server_devcommands.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/server_devcommands.cfg",
+      "sha256": "608a9a170ab9bbedb4d297252e42d1e600d01d9c582c309bef1e82b233f9644f"
     },
     {
       "path": "BepInEx/config/shudnal.ConditionalConfigSync/ConditionalConfigSync.Debug.cfg",
