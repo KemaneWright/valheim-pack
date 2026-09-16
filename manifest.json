@@ -88,6 +88,12 @@
       "url": "https://thunderstore.io/package/download/Goldenrevolver/Quick_Stack_Store_Sort_Trash_Restock/1.4.15/"
     },
     {
+      "namespace": "JereKuusela",
+      "name": "Infinity_Hammer",
+      "version": "1.84.0",
+      "url": "https://thunderstore.io/package/download/JereKuusela/Infinity_Hammer/1.84.0/"
+    },
+    {
       "namespace": "RandyKnapp",
       "name": "EpicLoot",
       "version": "0.14.5",
@@ -182,6 +188,18 @@
       "name": "ItemStacksItemWeights",
       "version": "1.1.1",
       "url": "https://thunderstore.io/package/download/shudnal/ItemStacksItemWeights/1.1.1/"
+    },
+    {
+      "namespace": "JereKuusela",
+      "name": "Server_devcommands",
+      "version": "1.113.0",
+      "url": "https://thunderstore.io/package/download/JereKuusela/Server_devcommands/1.113.0/"
+    },
+    {
+      "namespace": "JereKuusela",
+      "name": "World_Edit_Commands",
+      "version": "1.77.0",
+      "url": "https://thunderstore.io/package/download/JereKuusela/World_Edit_Commands/1.77.0/"
     },
     {
       "namespace": "ValheimModding",
@@ -292,7 +310,7 @@
     {
       "path": "BepInEx/config/infinity_hammer.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/infinity_hammer.cfg",
-      "sha256": "aef86bc2841d72976844f3395cc13fce0d54403e5cc80d61e139f73bdcc74b88"
+      "sha256": "0612eabd0657436a3b32cfaf2052a7536ed4256e55226ae7b7c1feebe95f78ae"
     },
     {
       "path": "BepInEx/config/org.bepinex.plugins.conversionsizespeed.cfg",
