@@ -1,0 +1,6 @@
+# Global stack/weight tuning for a 3-5 player veteran server with 3x resources.
+# Per-item keys override Global. Absolute StackSize / WeightAmount override multipliers.
+WeightMultiplier:
+  Global: 0.025
+StackMultiplier:
+  Global: 8

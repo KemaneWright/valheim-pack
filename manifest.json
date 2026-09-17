@@ -487,6 +487,11 @@
       "sha256": "fb139d6562de749aa7a03a28719d50c247f4e7c4688f48b0be61fcb0470062af"
     },
     {
+      "path": "BepInEx/config/shudnal.ItemStacksItemWeights/shudnal.ItemStacksItemWeights.yml",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/shudnal.ItemStacksItemWeights/shudnal.ItemStacksItemWeights.yml",
+      "sha256": "e98c4ff692fcd67f23a79e921c5fa5c2af03eaf2ef2028a1dcdee38d8827b556"
+    },
+    {
       "path": "BepInEx/config/shudnal.ItemStacksItemWeights.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/shudnal.ItemStacksItemWeights.cfg",
       "sha256": "9633c4783448039786ae12006bbed018fdab633592a32d18faa6e57c25fa240d"
