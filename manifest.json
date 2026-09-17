@@ -226,6 +226,12 @@
       "url": "https://cdn.hexium.gg/upload/367/1.1.5.zip"
     },
     {
+      "namespace": "TastyChickenLegs",
+      "name": "LongerDays",
+      "version": "1.1.4",
+      "url": "https://thunderstore.io/package/download/TastyChickenLegs/LongerDays/1.1.4/"
+    },
+    {
       "namespace": "WackyMole",
       "name": "Hearthstone",
       "version": "1.1.3",
@@ -302,6 +308,11 @@
       "sha256": "104a3b487a3f865a12be13befc201d6850601ec55e3393eab12fe85e42f807d9"
     },
     {
+      "path": "BepInEx/config/Azumatt.AzuCraftyBoxes.yml",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.AzuCraftyBoxes.yml",
+      "sha256": "0db71e6e9d4892f662da1319ff313b9d6f74999cd8971768ec35824fc1529416"
+    },
+    {
       "path": "BepInEx/config/Azumatt.AzuWearNTearPatches.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.AzuWearNTearPatches.cfg",
       "sha256": "ed705259f1da35b4771f80efd4245e081b6f38e0c4a370a7f7404c6f0bdb3fe8"
@@ -317,9 +328,24 @@
       "sha256": "62ad5f660da9da1dee0d61597b048d3e60a86274ad1e5162c5d07bee3c7a1358"
     },
     {
+      "path": "BepInEx/config/Azumatt.Recycle_N_Reclaim_ExcludeLists.yml",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.Recycle_N_Reclaim_ExcludeLists.yml",
+      "sha256": "8bca9866d06ee2fa7310b8e3d792708f4a91426e7e5c88b7cfe9c9deda6b2af1"
+    },
+    {
       "path": "BepInEx/config/Azumatt.TrueInstantLootDrop.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.TrueInstantLootDrop.cfg",
       "sha256": "c89d2cd3d2e1c215b9b7928990aff85b242015d70809e2504a63f07d118be996"
+    },
+    {
+      "path": "BepInEx/config/CreatureConfig.yml",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/CreatureConfig.yml",
+      "sha256": "38e248ec8b3121f3f5d314c0a42952ce3ca1dba54845023be97263e3101b4327"
+    },
+    {
+      "path": "BepInEx/config/ItemConfig.yml",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/ItemConfig.yml",
+      "sha256": "00b90aa9f3353fd004e6273372e369aa77f72d89045fd3c3bdae0238cd307156"
     },
     {
       "path": "BepInEx/config/MK_BetterUI.cfg",
@@ -330,6 +356,26 @@
       "path": "BepInEx/config/RustyMods.Seasonality.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/RustyMods.Seasonality.cfg",
       "sha256": "516bfb1e8a9f0ceea029cc3bc86464ba94b3eba74c284cef629532f8d6d19cd2"
+    },
+    {
+      "path": "BepInEx/config/Seasonality/Tweaks/Pickables.yml",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Seasonality/Tweaks/Pickables.yml",
+      "sha256": "5c3b03cb966bd9c62c716fcc4fbc95a8d3a3f13a2a538b5cca2d964ddcef58a8"
+    },
+    {
+      "path": "BepInEx/config/Seasonality/Tweaks/Plants.yml",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Seasonality/Tweaks/Plants.yml",
+      "sha256": "b5021bee201615e4ccb903c34605d685dc2cb9f461fa63707ebf8496cb0e60d7"
+    },
+    {
+      "path": "BepInEx/config/Seasonality/Tweaks/SpawnTweaks.yml",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Seasonality/Tweaks/SpawnTweaks.yml",
+      "sha256": "4ed46982fec03f24f1fa2744e4b5db0f551dbff759f505e7d601f6cf498e5c0a"
+    },
+    {
+      "path": "BepInEx/config/TastyChickenLegs.LongerDays.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/TastyChickenLegs.LongerDays.cfg",
+      "sha256": "db61fee365b4142e58cf11f0590a2995b719bee8834b04a52682604d1994b3dc"
     },
     {
       "path": "BepInEx/config/ValheimLegends.cfg",
@@ -357,6 +403,16 @@
       "sha256": "6b1943d403e8738947de5a044e3b7938ac52104c97e6664084091d23a7d62917"
     },
     {
+      "path": "BepInEx/config/alias.yaml",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/alias.yaml",
+      "sha256": "2bf320b1b92bbc76f061d7f7983e171aea1a8ec921bd602fb4987ca7f5db4f62"
+    },
+    {
+      "path": "BepInEx/config/binds.yaml",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/binds.yaml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
       "path": "BepInEx/config/goldenrevolver.quick_stack_store.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/goldenrevolver.quick_stack_store.cfg",
       "sha256": "d142e58d6d05b8c990cf30f29de02d8aab1ae9a0f5136710a95b5d5612a3f1c1"
@@ -367,6 +423,11 @@
       "sha256": "0612eabd0657436a3b32cfaf2052a7536ed4256e55226ae7b7c1feebe95f78ae"
     },
     {
+      "path": "BepInEx/config/infinity_tools.yaml",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/infinity_tools.yaml",
+      "sha256": "e63b4054cbecf6a8eba8aea34196375280112ac48faeb43c6b205aa1be49e852"
+    },
+    {
       "path": "BepInEx/config/org.bepinex.plugins.blacksmithing.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.blacksmithing.cfg",
       "sha256": "c8dddce8e1a0ef1ae583546044eecca1c3f5220a3269c61afe364c11141b4c1b"
@@ -374,7 +435,7 @@
     {
       "path": "BepInEx/config/org.bepinex.plugins.conversionsizespeed.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.conversionsizespeed.cfg",
-      "sha256": "9fbbb041721667a65c916d67845df08f9073cc4574dbfea68ea782806f759b12"
+      "sha256": "5c35f923accadb62009c9cfb612c824d0aaffc21588357398b99bb66c28bd12b"
     },
     {
       "path": "BepInEx/config/org.bepinex.plugins.cooking.cfg",
@@ -440,6 +501,11 @@
       "path": "BepInEx/config/org.bepinex.plugins.tenacity.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.tenacity.cfg",
       "sha256": "0a8683c33b7a3890f2210defe8198e9dba474736c75ff1652df92a88185e2713"
+    },
+    {
+      "path": "BepInEx/config/permissions.yaml",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/permissions.yaml",
+      "sha256": "0f086900bdec25ccfaad04f98fc7ebc4c31ff4b6cfb2b97cea5d1adda90dd4ce"
     },
     {
       "path": "BepInEx/config/randyknapp.mods.epicloot.cfg",

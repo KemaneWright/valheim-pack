@@ -8,5 +8,5 @@ This does **not** update the dedicated server — use the manager **Sync to serv
 
 Do not run `pnpm server:sync` against the homelab container; that path copies a full game/BepInEx tree the image must not receive.
 
-Packages: 46
-Configs: 43
+Packages: 47
+Configs: 55
