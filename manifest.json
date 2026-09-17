@@ -1,5 +1,5 @@
 {
-  "pack_version": "2026.09.16",
+  "pack_version": "2026.09.17",
   "game": "valheim",
   "manifest_url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/manifest.json",
   "bepinex": {
@@ -96,8 +96,8 @@
     {
       "namespace": "RandyKnapp",
       "name": "EpicLoot",
-      "version": "0.14.5",
-      "url": "https://thunderstore.io/package/download/RandyKnapp/EpicLoot/0.14.5/"
+      "version": "0.14.7",
+      "url": "https://thunderstore.io/package/download/RandyKnapp/EpicLoot/0.14.7/"
     },
     {
       "namespace": "RandyKnapp",
@@ -125,9 +125,21 @@
     },
     {
       "namespace": "Smoothbrain",
+      "name": "Blacksmithing",
+      "version": "1.3.5",
+      "url": "https://cdn.hexium.gg/upload/242/1.3.5.zip"
+    },
+    {
+      "namespace": "Smoothbrain",
       "name": "ConversionSizeAndSpeed",
       "version": "1.0.18",
       "url": "https://cdn.hexium.gg/upload/2/1.0.18.zip"
+    },
+    {
+      "namespace": "Smoothbrain",
+      "name": "Cooking",
+      "version": "1.2.3",
+      "url": "https://cdn.hexium.gg/upload/13/1.2.3.zip"
     },
     {
       "namespace": "Smoothbrain",
@@ -143,9 +155,33 @@
     },
     {
       "namespace": "Smoothbrain",
+      "name": "Evasion",
+      "version": "1.0.5",
+      "url": "https://cdn.hexium.gg/upload/43/1.0.5.zip"
+    },
+    {
+      "namespace": "Smoothbrain",
+      "name": "Exploration",
+      "version": "1.0.5",
+      "url": "https://cdn.hexium.gg/upload/46/1.0.5.zip"
+    },
+    {
+      "namespace": "Smoothbrain",
+      "name": "GapFiller",
+      "version": "1.0.7",
+      "url": "https://cdn.hexium.gg/upload/346/1.0.7.zip"
+    },
+    {
+      "namespace": "Smoothbrain",
       "name": "Groups",
       "version": "1.2.11",
       "url": "https://cdn.hexium.gg/upload/47/1.2.11.zip"
+    },
+    {
+      "namespace": "Smoothbrain",
+      "name": "Mining",
+      "version": "1.1.7",
+      "url": "https://cdn.hexium.gg/upload/352/1.1.7.zip"
     },
     {
       "namespace": "Smoothbrain",
@@ -161,6 +197,12 @@
     },
     {
       "namespace": "Smoothbrain",
+      "name": "StaminaRegenerationFromFood",
+      "version": "1.5.8",
+      "url": "https://cdn.hexium.gg/upload/365/1.5.8.zip"
+    },
+    {
+      "namespace": "Smoothbrain",
       "name": "SteadyRegeneration",
       "version": "1.0.4",
       "url": "https://cdn.hexium.gg/upload/232/1.0.4.zip"
@@ -170,6 +212,18 @@
       "name": "TargetPortal",
       "version": "1.2.6",
       "url": "https://cdn.hexium.gg/upload/231/1.2.6.zip"
+    },
+    {
+      "namespace": "Smoothbrain",
+      "name": "Tenacity",
+      "version": "1.0.5",
+      "url": "https://cdn.hexium.gg/upload/334/1.0.5.zip"
+    },
+    {
+      "namespace": "Smoothbrain",
+      "name": "Vitality",
+      "version": "1.1.5",
+      "url": "https://cdn.hexium.gg/upload/367/1.1.5.zip"
     },
     {
       "namespace": "WackyMole",
@@ -313,9 +367,19 @@
       "sha256": "0612eabd0657436a3b32cfaf2052a7536ed4256e55226ae7b7c1feebe95f78ae"
     },
     {
+      "path": "BepInEx/config/org.bepinex.plugins.blacksmithing.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.blacksmithing.cfg",
+      "sha256": "c8dddce8e1a0ef1ae583546044eecca1c3f5220a3269c61afe364c11141b4c1b"
+    },
+    {
       "path": "BepInEx/config/org.bepinex.plugins.conversionsizespeed.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.conversionsizespeed.cfg",
       "sha256": "9fbbb041721667a65c916d67845df08f9073cc4574dbfea68ea782806f759b12"
+    },
+    {
+      "path": "BepInEx/config/org.bepinex.plugins.cooking.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.cooking.cfg",
+      "sha256": "45fa006972ab606c36a9f064d9004910f76fd36f1740f45d87ea24aacc53d798"
     },
     {
       "path": "BepInEx/config/org.bepinex.plugins.creaturelevelcontrol.cfg",
@@ -328,9 +392,34 @@
       "sha256": "a51a9d71c3d8d173cc5cfa685f91eb556fdf4864c1bddadc59b7a5b7ee5ede56"
     },
     {
+      "path": "BepInEx/config/org.bepinex.plugins.evasion.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.evasion.cfg",
+      "sha256": "10acd3fff0a093d5f1173a4d2c4becea94aa0ea35fc3e296bd65179631d60dfd"
+    },
+    {
+      "path": "BepInEx/config/org.bepinex.plugins.exploration.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.exploration.cfg",
+      "sha256": "8cd0c080cfcd061a38c879d1c65ecfccebf0beb31fdb2dc6dc4ecefa9d986951"
+    },
+    {
+      "path": "BepInEx/config/org.bepinex.plugins.foodstaminaregen.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.foodstaminaregen.cfg",
+      "sha256": "86227f3e7bc0cb6da0a5120473de06837f65b752b0b77d4dd0bfa9d2982f3217"
+    },
+    {
+      "path": "BepInEx/config/org.bepinex.plugins.gapfiller.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.gapfiller.cfg",
+      "sha256": "5e9b8a7aea407e0e291c5196149ff3195df840aabd4b0aaad28ea20d4a58013f"
+    },
+    {
       "path": "BepInEx/config/org.bepinex.plugins.groups.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.groups.cfg",
-      "sha256": "d4738537df636445ef3d8605001e55293e7b9d1af1fe397d8204225ee52cf34f"
+      "sha256": "60fe052044a631a447fcd2f0cd8a01412b802dbc3caf27d70f96a4316e6e92af"
+    },
+    {
+      "path": "BepInEx/config/org.bepinex.plugins.mining.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.mining.cfg",
+      "sha256": "a1f02bfd86312a17a4522c5fa0258fba5349e94e78dcaf114ce864c8d78de1fe"
     },
     {
       "path": "BepInEx/config/org.bepinex.plugins.network.cfg",
@@ -348,9 +437,14 @@
       "sha256": "d7762788ad535be62e6c7c5aee654a6f5fc2806a0717784f39f0e79ef4875252"
     },
     {
+      "path": "BepInEx/config/org.bepinex.plugins.tenacity.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.tenacity.cfg",
+      "sha256": "0a8683c33b7a3890f2210defe8198e9dba474736c75ff1652df92a88185e2713"
+    },
+    {
       "path": "BepInEx/config/randyknapp.mods.epicloot.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/randyknapp.mods.epicloot.cfg",
-      "sha256": "3d2a04ca2a0644e0fb72c1404684bb3ecdd6822a839ce6b50de44fd1a02c7c72"
+      "sha256": "2939e82fefce83af543df482be0fbdab11d0b49e66af21f9085a6e59ce31c2a3"
     },
     {
       "path": "BepInEx/config/randyknapp.mods.equipmentandquickslots.cfg",
