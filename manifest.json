@@ -1,5 +1,5 @@
 {
-  "pack_version": "2026.09.17",
+  "pack_version": "2026.09.18",
   "game": "valheim",
   "manifest_url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/manifest.json",
   "bepinex": {
@@ -24,50 +24,50 @@
     {
       "namespace": "Azumatt",
       "name": "AAA_Crafting",
-      "version": "2.1.9",
-      "url": "https://cdn.hexium.gg/upload/218/2.1.9.zip"
+      "version": "2.1.10",
+      "url": "https://cdn.hexium.gg/upload/218/2.1.10.zip"
     },
     {
       "namespace": "Azumatt",
       "name": "AzuClock",
-      "version": "1.1.0",
-      "url": "https://thunderstore.io/package/download/Azumatt/AzuClock/1.1.0/"
+      "version": "1.1.1",
+      "url": "https://cdn.hexium.gg/upload/248/1.1.1.zip"
     },
     {
       "namespace": "Azumatt",
       "name": "AzuContainerSizes",
-      "version": "1.1.7",
-      "url": "https://cdn.hexium.gg/upload/249/1.1.7.zip"
+      "version": "1.1.8",
+      "url": "https://cdn.hexium.gg/upload/249/1.1.8.zip"
     },
     {
       "namespace": "Azumatt",
       "name": "AzuCraftyBoxes",
-      "version": "1.8.20",
-      "url": "https://cdn.hexium.gg/upload/48/1.8.20.zip"
+      "version": "1.8.22",
+      "url": "https://cdn.hexium.gg/upload/48/1.8.22.zip"
     },
     {
       "namespace": "Azumatt",
       "name": "AzuWearNTearPatches",
-      "version": "1.0.9",
-      "url": "https://thunderstore.io/package/download/Azumatt/AzuWearNTearPatches/1.0.9/"
+      "version": "1.0.10",
+      "url": "https://cdn.hexium.gg/upload/252/1.0.10.zip"
     },
     {
       "namespace": "Azumatt",
       "name": "AzuWorkbenchTweaks",
-      "version": "1.0.7",
-      "url": "https://thunderstore.io/package/download/Azumatt/AzuWorkbenchTweaks/1.0.7/"
+      "version": "1.0.8",
+      "url": "https://cdn.hexium.gg/upload/253/1.0.8.zip"
     },
     {
       "namespace": "Azumatt",
       "name": "Recycle_N_Reclaim",
-      "version": "1.4.4",
-      "url": "https://thunderstore.io/package/download/Azumatt/Recycle_N_Reclaim/1.4.4/"
+      "version": "1.4.5",
+      "url": "https://cdn.hexium.gg/upload/226/1.4.5.zip"
     },
     {
       "namespace": "Azumatt",
       "name": "TrueInstantLootDrop",
-      "version": "1.0.4",
-      "url": "https://thunderstore.io/package/download/Azumatt/TrueInstantLootDrop/1.0.4/"
+      "version": "1.0.5",
+      "url": "https://cdn.hexium.gg/upload/288/1.0.5.zip"
     },
     {
       "namespace": "BetterUI_ForeverMaintained",
@@ -78,8 +78,8 @@
     {
       "namespace": "DrummerCraig",
       "name": "ShaderHelperForMac",
-      "version": "3.4.1",
-      "url": "https://thunderstore.io/package/download/DrummerCraig/ShaderHelperForMac/3.4.1/"
+      "version": "3.4.9",
+      "url": "https://thunderstore.io/package/download/DrummerCraig/ShaderHelperForMac/3.4.9/"
     },
     {
       "namespace": "Goldenrevolver",
@@ -96,8 +96,8 @@
     {
       "namespace": "RandyKnapp",
       "name": "EpicLoot",
-      "version": "0.14.7",
-      "url": "https://thunderstore.io/package/download/RandyKnapp/EpicLoot/0.14.7/"
+      "version": "0.14.8",
+      "url": "https://thunderstore.io/package/download/RandyKnapp/EpicLoot/0.14.8/"
     },
     {
       "namespace": "RandyKnapp",
@@ -238,6 +238,30 @@
       "url": "https://cdn.hexium.gg/upload/594/1.1.3.zip"
     },
     {
+      "namespace": "blacks7ar",
+      "name": "BeeKeeper",
+      "version": "1.1.0",
+      "url": "https://thunderstore.io/package/download/blacks7ar/BeeKeeper/1.1.0/"
+    },
+    {
+      "namespace": "blacks7ar",
+      "name": "Fermenting",
+      "version": "1.1.8",
+      "url": "https://thunderstore.io/package/download/blacks7ar/Fermenting/1.1.8/"
+    },
+    {
+      "namespace": "blacks7ar",
+      "name": "LazyVikings",
+      "version": "1.2.4",
+      "url": "https://thunderstore.io/package/download/blacks7ar/LazyVikings/1.2.4/"
+    },
+    {
+      "namespace": "blacks7ar",
+      "name": "SeedBed",
+      "version": "1.2.9",
+      "url": "https://thunderstore.io/package/download/blacks7ar/SeedBed/1.2.9/"
+    },
+    {
       "namespace": "momos3939",
       "name": "ValheimLegends",
       "version": "0.7.10",
@@ -264,8 +288,8 @@
     {
       "namespace": "ValheimModding",
       "name": "Jotunn",
-      "version": "2.30.0",
-      "url": "https://thunderstore.io/package/download/ValheimModding/Jotunn/2.30.0/"
+      "version": "2.30.1",
+      "url": "https://thunderstore.io/package/download/ValheimModding/Jotunn/2.30.1/"
     },
     {
       "namespace": "ValheimModding",
@@ -290,22 +314,22 @@
     {
       "path": "BepInEx/config/Azumatt.AzuAntiArthriticCrafting.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.AzuAntiArthriticCrafting.cfg",
-      "sha256": "09a194f5ec19ce33bd060a76959e01b411b2fd1f65dbc44632661125cf1247e0"
+      "sha256": "02c21f2ba72876fad825b8ea9a17d5b73a4509c88d562666a7478d9f2018cba2"
     },
     {
       "path": "BepInEx/config/Azumatt.AzuClock.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.AzuClock.cfg",
-      "sha256": "e2c92c237e56b0d0bd80910bb948eee5bac19203ede2b1f74746bfc901b754c5"
+      "sha256": "410cae4f5e6c233cf213a8e1a0aa62e5e08c9560a23fdbd427c647d7c2f99495"
     },
     {
       "path": "BepInEx/config/Azumatt.AzuContainerSizes.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.AzuContainerSizes.cfg",
-      "sha256": "bc4ea88ae8e7052d0918378ea474dd1a820794bf0fc57d1ab02459166425ab6b"
+      "sha256": "7ef497e94bb439045e5d0f0b8d2bc3000e3ee1c12912c36b705425be305e3e0b"
     },
     {
       "path": "BepInEx/config/Azumatt.AzuCraftyBoxes.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.AzuCraftyBoxes.cfg",
-      "sha256": "104a3b487a3f865a12be13befc201d6850601ec55e3393eab12fe85e42f807d9"
+      "sha256": "7b8639eef561f7fe21136901c843af914f06377674d6be44f998334b4fbcf439"
     },
     {
       "path": "BepInEx/config/Azumatt.AzuCraftyBoxes.yml",
@@ -315,17 +339,17 @@
     {
       "path": "BepInEx/config/Azumatt.AzuWearNTearPatches.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.AzuWearNTearPatches.cfg",
-      "sha256": "ed705259f1da35b4771f80efd4245e081b6f38e0c4a370a7f7404c6f0bdb3fe8"
+      "sha256": "146e7732b9c0125bd6fbe5023123f30f5b7e35be54154f98d567988cbedc28e1"
     },
     {
       "path": "BepInEx/config/Azumatt.AzuWorkbenchTweaks.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.AzuWorkbenchTweaks.cfg",
-      "sha256": "0773d743eb2846afcd619ac54d4761bac6e273ca3d63411087ddea780c18516f"
+      "sha256": "cd8424ff6a3df116ee5da9f17f91542f51765432df3c19d85cec49761119c552"
     },
     {
       "path": "BepInEx/config/Azumatt.Recycle_N_Reclaim.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.Recycle_N_Reclaim.cfg",
-      "sha256": "62ad5f660da9da1dee0d61597b048d3e60a86274ad1e5162c5d07bee3c7a1358"
+      "sha256": "577a87537bd6311a38d8ff18bb821aa7a05c4336acdbcfece135ae6d21cc72c0"
     },
     {
       "path": "BepInEx/config/Azumatt.Recycle_N_Reclaim_ExcludeLists.yml",
@@ -335,7 +359,7 @@
     {
       "path": "BepInEx/config/Azumatt.TrueInstantLootDrop.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.TrueInstantLootDrop.cfg",
-      "sha256": "c89d2cd3d2e1c215b9b7928990aff85b242015d70809e2504a63f07d118be996"
+      "sha256": "debc1fc6511b8f218e7f4db705defaa76cc48dbd300ff539f3c5a6a27392ac55"
     },
     {
       "path": "BepInEx/config/CreatureConfig.yml",
@@ -390,7 +414,7 @@
     {
       "path": "BepInEx/config/aaa.drummercraig.shaderhelperformac.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/aaa.drummercraig.shaderhelperformac.cfg",
-      "sha256": "d116818f50af1948e784d831379363481e338290fb5e04572e440fc9744327c1"
+      "sha256": "5e150da48ac7e74e5844d06215c0eaca16b8a3ab86b72e40996b3fcad54168f4"
     },
     {
       "path": "BepInEx/config/advize.PlantEasily.cfg",
@@ -411,6 +435,31 @@
       "path": "BepInEx/config/binds.yaml",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/binds.yaml",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "BepInEx/config/blacks7ar.BeeKeeper.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/blacks7ar.BeeKeeper.cfg",
+      "sha256": "515833f0372e1af27aa611f4e3bfb433da5230fbafd7f6f31bd72c190e684b6f"
+    },
+    {
+      "path": "BepInEx/config/blacks7ar.Fermenting.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/blacks7ar.Fermenting.cfg",
+      "sha256": "86a0bfa6d9205cb08e0224d52df0a78d8f42b8769afd203fb964c8917472a492"
+    },
+    {
+      "path": "BepInEx/config/blacks7ar.LazyVikings.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/blacks7ar.LazyVikings.cfg",
+      "sha256": "d36a277eca81e46b78b438a70352feb45658b820c660f0f8ad3724a33f9ce17e"
+    },
+    {
+      "path": "BepInEx/config/blacks7ar.SeedBed.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/blacks7ar.SeedBed.cfg",
+      "sha256": "e758c6f3e1edfd74c58d1f869e6b55576f86a4cc9a41792e5e343a79fd3912e4"
+    },
+    {
+      "path": "BepInEx/config/blacks7ar.SeedBed.yml",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/blacks7ar.SeedBed.yml",
+      "sha256": "7c90d52691ddc559d73a5725134a2f8aa2040a8d84f14209bd7fc93d251e790e"
     },
     {
       "path": "BepInEx/config/goldenrevolver.quick_stack_store.cfg",
@@ -490,7 +539,7 @@
     {
       "path": "BepInEx/config/org.bepinex.plugins.passivepowers.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.passivepowers.cfg",
-      "sha256": "da14bfe3e83c85105c13e8d1ce2660fa62a7a652998af375a1e17bf6c55787be"
+      "sha256": "4c5200cec68bffb1e4b353c8679b0c87400f78acc2801e913e51c7a2cf1e6137"
     },
     {
       "path": "BepInEx/config/org.bepinex.plugins.targetportal.cfg",
@@ -510,12 +559,12 @@
     {
       "path": "BepInEx/config/randyknapp.mods.epicloot.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/randyknapp.mods.epicloot.cfg",
-      "sha256": "2939e82fefce83af543df482be0fbdab11d0b49e66af21f9085a6e59ce31c2a3"
+      "sha256": "15c7b2774e9a95389d525d23afcb2953fbd1cf874705298faf5999dee72072c6"
     },
     {
       "path": "BepInEx/config/randyknapp.mods.equipmentandquickslots.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/randyknapp.mods.equipmentandquickslots.cfg",
-      "sha256": "377dd4a380023f06960c59f6b8f033468bc14d2f092d7a304193a3193d1f077d"
+      "sha256": "273bd37288f3321a027808dd4ef4c7385b4d9137e054ff72ed4de4c5b068a296"
     },
     {
       "path": "BepInEx/config/randyknapp.mods.jam.cfg",
