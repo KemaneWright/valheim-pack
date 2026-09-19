@@ -227,24 +227,7 @@
         "AllowedSkillTypes": [
           "Axes"
         ]
-      },
-      "GuaranteedMagicEffects": [
-        {
-          "Type": "ModifyMovementSpeedLowHealth"
-        },
-        {
-          "Type": "ModifyStaminaRegenLowHealth"
-        },
-        {
-          "Type": "ModifyDamageLowHealth"
-        },
-        {
-          "Type": "ModifyAttackSpeedLowHealth"
-        },
-        {
-          "Type": "AvoidDamageTakenLowHealth"
-        }
-      ]
+      }
     },
     {
       "ID": "Skofnung",
@@ -342,9 +325,6 @@
         },
         {
           "Type": "LifeSteal"
-        },
-        {
-          "Type": "LifeStealLowHealth"
         }
       ]
     },
@@ -499,15 +479,7 @@
           "Helmet"
         ]
       },
-      "GuaranteedEffectCount": 6,
-      "GuaranteedMagicEffects": [
-        {
-          "Type": "ModifyArmorLowHealth"
-        },
-        {
-          "Type": "ModifyStaminaRegenLowHealth"
-        }
-      ]
+      "GuaranteedEffectCount": 6
     },
     {
       "ID": "HeimdallChest",
@@ -550,9 +522,6 @@
       "GuaranteedMagicEffects": [
         {
           "Type": "AddMovementSkills"
-        },
-        {
-          "Type": "ModifyMovementSpeedLowHealth"
         }
       ]
     },

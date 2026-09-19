@@ -161,7 +161,6 @@
           "AddPiercingDamage",
           "ModifyPhysicalDamage",
           "ModifyDamage",
-          "ModifyDamageLowHealth",
           "AddFireDamage",
           "AddFrostDamage",
           "AddLightningDamage",
@@ -215,7 +214,6 @@
           "AddPiercingDamage",
           "ModifyPhysicalDamage",
           "ModifyDamage",
-          "ModifyDamageLowHealth",
           "AddFireDamage",
           "AddFrostDamage",
           "AddLightningDamage",
@@ -297,7 +295,6 @@
           "AddPiercingDamage",
           "ModifyPhysicalDamage",
           "ModifyDamage",
-          "ModifyDamageLowHealth",
           "AddFireDamage",
           "AddFrostDamage",
           "AddLightningDamage",
@@ -1282,60 +1279,6 @@
       ]
     },
     {
-      "Type": "ModifyLowHealth",
-      "DisplayText": "$mod_epicloot_me_modifylowhealth_display",
-      "Description": "$mod_epicloot_me_modifylowhealth_desc",
-      "Requirements": {
-        "AllowedItemTypes": [
-          "Helmet",
-          "Utility",
-          "Trinket"
-        ]
-      },
-      "Config": {
-        "Max": 0.75
-      },
-      "ValuesPerRarity": {
-        "Magic": {
-          "MinValue": 2,
-          "MaxValue": 5,
-          "Increment": 1
-        },
-        "Rare": {
-          "MinValue": 5,
-          "MaxValue": 8,
-          "Increment": 1
-        },
-        "Epic": {
-          "MinValue": 8,
-          "MaxValue": 12,
-          "Increment": 1
-        },
-        "Legendary": {
-          "MinValue": 12,
-          "MaxValue": 16,
-          "Increment": 1
-        },
-        "Mythic": {
-          "MinValue": 16,
-          "MaxValue": 20,
-          "Increment": 1
-        },
-        "Ancient": {
-          "MinValue": 20,
-          "MaxValue": 24,
-          "Increment": 1
-        }
-      },
-      "SelectionWeight": 10,
-      "Prefixes": [
-        "$mod_epicloot_me_modifylowhealth_prefix1"
-      ],
-      "Suffixes": [
-        "$mod_epicloot_me_modifylowhealth_suffix1"
-      ]
-    },
-    {
       "Type": "AddHealthRegen",
       "DisplayText": "$mod_epicloot_me_addhealthregen_display",
       "Description": "$mod_epicloot_me_addhealthregen_desc",
@@ -1486,62 +1429,6 @@
         ],
         "Suffixes": [
           "$mod_epicloot_me_ammoconservation_suffix1"
-        ]
-      }
-    },
-    {
-      "Type": "InstantMead",
-      "DisplayText": "$mod_epicloot_me_instantmead_display",
-      "Description": "$mod_epicloot_me_instantmead_desc",
-      "Requirements": {
-        "NoRoll": true,
-        "AllowedItemTypes": [
-          "Utility",
-          "Trinket"
-        ],
-        "AllowedRarities": [
-          "Rare",
-          "Epic",
-          "Legendary",
-          "Mythic",
-          "Ancient"
-        ]
-      },
-      "ValuesPerRarity": {
-        "SelectionWeight": 10,
-        "Prefixes": [
-          "$mod_epicloot_me_instantmead_prefix1"
-        ],
-        "Suffixes": [
-          "$mod_epicloot_me_instantmead_suffix1"
-        ]
-      }
-    },
-    {
-      "Type": "AutoMead",
-      "DisplayText": "$mod_epicloot_me_automead_display",
-      "Description": "$mod_epicloot_me_automead_desc",
-      "Requirements": {
-        "NoRoll": true,
-        "AllowedItemTypes": [
-          "Utility",
-          "Trinket"
-        ],
-        "AllowedRarities": [
-          "Rare",
-          "Epic",
-          "Legendary",
-          "Mythic",
-          "Ancient"
-        ]
-      },
-      "ValuesPerRarity": {
-        "SelectionWeight": 10,
-        "Prefixes": [
-          "$mod_epicloot_me_automead_prefix1"
-        ],
-        "Suffixes": [
-          "$mod_epicloot_me_automead_suffix1"
         ]
       }
     },
@@ -1913,7 +1800,6 @@
           "AddPiercingDamage",
           "ModifyPhysicalDamage",
           "ModifyDamage",
-          "ModifyDamageLowHealth",
           "AddFireDamage",
           "AddFrostDamage",
           "AddLightningDamage",
@@ -1992,7 +1878,6 @@
           "AddPiercingDamage",
           "ModifyPhysicalDamage",
           "ModifyDamage",
-          "ModifyDamageLowHealth",
           "AddFireDamage",
           "AddFrostDamage",
           "AddLightningDamage",
@@ -2074,7 +1959,6 @@
           "AddPiercingDamage",
           "ModifyPhysicalDamage",
           "ModifyDamage",
-          "ModifyDamageLowHealth",
           "AddFireDamage",
           "AddFrostDamage",
           "AddLightningDamage",
@@ -2154,7 +2038,6 @@
           "AddPiercingDamage",
           "ModifyPhysicalDamage",
           "ModifyDamage",
-          "ModifyDamageLowHealth",
           "AddFireDamage",
           "AddFrostDamage",
           "AddLightningDamage",
@@ -2229,7 +2112,6 @@
           "AddPiercingDamage",
           "ModifyPhysicalDamage",
           "ModifyDamage",
-          "ModifyDamageLowHealth",
           "AddFireDamage",
           "AddFrostDamage",
           "AddLightningDamage",
@@ -2304,7 +2186,6 @@
           "AddPiercingDamage",
           "ModifyPhysicalDamage",
           "ModifyDamage",
-          "ModifyDamageLowHealth",
           "AddFireDamage",
           "AddFrostDamage",
           "AddLightningDamage",
@@ -2379,7 +2260,6 @@
           "AddPiercingDamage",
           "ModifyPhysicalDamage",
           "ModifyDamage",
-          "ModifyDamageLowHealth",
           "AddFireDamage",
           "AddFrostDamage",
           "AddLightningDamage",
@@ -2454,7 +2334,6 @@
           "AddPiercingDamage",
           "ModifyPhysicalDamage",
           "ModifyDamage",
-          "ModifyDamageLowHealth",
           "AddFireDamage",
           "AddFrostDamage",
           "AddLightningDamage",
@@ -5749,611 +5628,6 @@
       ]
     },
     {
-      "Type": "ModifyMovementSpeedLowHealth",
-      "DisplayText": "$mod_epicloot_me_modifymovementspeedlowhealth_display",
-      "Description": "$mod_epicloot_me_modifymovementspeedlowhealth_desc",
-      "Requirements": {
-        "ExclusiveEffectTypes": [
-          "RemoveSpeedPenalty"
-        ],
-        "AllowedItemTypes": [
-          "Legs",
-          "Utility",
-          "Trinket",
-          "Tool"
-        ]
-      },
-      "ValuesPerRarity": {
-        "Magic": {
-          "MinValue": 1,
-          "MaxValue": 6,
-          "Increment": 1
-        },
-        "Rare": {
-          "MinValue": 4,
-          "MaxValue": 9,
-          "Increment": 1
-        },
-        "Epic": {
-          "MinValue": 7,
-          "MaxValue": 12,
-          "Increment": 1
-        },
-        "Legendary": {
-          "MinValue": 10,
-          "MaxValue": 15,
-          "Increment": 1
-        },
-        "Mythic": {
-          "MinValue": 13,
-          "MaxValue": 18,
-          "Increment": 1
-        },
-        "Ancient": {
-          "MinValue": 16,
-          "MaxValue": 21,
-          "Increment": 1
-        }
-      },
-      "SelectionWeight": 10,
-      "Prefixes": [
-        "$mod_epicloot_me_modifymovementspeedlowhealth_prefix1"
-      ],
-      "Suffixes": [
-        "$mod_epicloot_me_modifymovementspeedlowhealth_suffix1"
-      ]
-    },
-    {
-      "Type": "ModifyHealthRegenLowHealth",
-      "DisplayText": "$mod_epicloot_me_modifyhealthregenlowhealth_display",
-      "Description": "$mod_epicloot_me_modifyhealthregenlowhealth_desc",
-      "Requirements": {
-        "AllowedItemTypes": [
-          "Helmet",
-          "Shoulder"
-        ]
-      },
-      "ValuesPerRarity": {
-        "Magic": {
-          "MinValue": 4,
-          "MaxValue": 8,
-          "Increment": 1
-        },
-        "Rare": {
-          "MinValue": 6,
-          "MaxValue": 13,
-          "Increment": 1
-        },
-        "Epic": {
-          "MinValue": 11,
-          "MaxValue": 18,
-          "Increment": 1
-        },
-        "Legendary": {
-          "MinValue": 16,
-          "MaxValue": 23,
-          "Increment": 1
-        },
-        "Mythic": {
-          "MinValue": 21,
-          "MaxValue": 28,
-          "Increment": 1
-        },
-        "Ancient": {
-          "MinValue": 26,
-          "MaxValue": 33,
-          "Increment": 1
-        }
-      },
-      "SelectionWeight": 10,
-      "Prefixes": [
-        "$mod_epicloot_me_modifyhealthregenlowhealth_prefix1"
-      ],
-      "Suffixes": [
-        "$mod_epicloot_me_modifyhealthregenlowhealth_suffix1"
-      ]
-    },
-    {
-      "Type": "ModifyStaminaRegenLowHealth",
-      "DisplayText": "$mod_epicloot_me_modifystaminaregenlowhealth_display",
-      "Description": "$mod_epicloot_me_modifystaminaregenlowhealth_desc",
-      "Requirements": {
-        "AllowedItemTypes": [
-          "Legs",
-          "Utility",
-          "Trinket",
-          "Tool"
-        ]
-      },
-      "ValuesPerRarity": {
-        "Magic": {
-          "MinValue": 4,
-          "MaxValue": 8,
-          "Increment": 1
-        },
-        "Rare": {
-          "MinValue": 6,
-          "MaxValue": 13,
-          "Increment": 1
-        },
-        "Epic": {
-          "MinValue": 11,
-          "MaxValue": 18,
-          "Increment": 1
-        },
-        "Legendary": {
-          "MinValue": 16,
-          "MaxValue": 23,
-          "Increment": 1
-        },
-        "Mythic": {
-          "MinValue": 21,
-          "MaxValue": 28,
-          "Increment": 1
-        },
-        "Ancient": {
-          "MinValue": 26,
-          "MaxValue": 33,
-          "Increment": 1
-        }
-      },
-      "SelectionWeight": 10,
-      "Prefixes": [
-        "$mod_epicloot_me_modifystaminaregenlowhealth_prefix1"
-      ],
-      "Suffixes": [
-        "$mod_epicloot_me_modifystaminaregenlowhealth_suffix1"
-      ]
-    },
-    {
-      "Type": "ModifyEitrRegenLowHealth",
-      "DisplayText": "$mod_epicloot_me_modifyeitrregenlowhealth_display",
-      "Description": "$mod_epicloot_me_modifyeitrregenlowhealth_desc",
-      "Requirements": {
-        "AllowedItemTypes": [
-          "Shoulder",
-          "Staff"
-        ]
-      },
-      "ValuesPerRarity": {
-        "Magic": {
-          "MinValue": 4,
-          "MaxValue": 10,
-          "Increment": 1
-        },
-        "Rare": {
-          "MinValue": 6,
-          "MaxValue": 15,
-          "Increment": 1
-        },
-        "Epic": {
-          "MinValue": 11,
-          "MaxValue": 20,
-          "Increment": 1
-        },
-        "Legendary": {
-          "MinValue": 16,
-          "MaxValue": 30,
-          "Increment": 1
-        },
-        "Mythic": {
-          "MinValue": 25,
-          "MaxValue": 40,
-          "Increment": 1
-        },
-        "Ancient": {
-          "MinValue": 34,
-          "MaxValue": 50,
-          "Increment": 1
-        }
-      },
-      "SelectionWeight": 10,
-      "Prefixes": [
-        "$mod_epicloot_me_modifyeitrregenlowhealth_prefix1"
-      ],
-      "Suffixes": [
-        "$mod_epicloot_me_modifyeitrregenlowhealth_suffix1"
-      ]
-    },
-    {
-      "Type": "ModifyArmorLowHealth",
-      "DisplayText": "$mod_epicloot_me_modifyarmorlowhealth_display",
-      "Description": "$mod_epicloot_me_modifyarmorlowhealth_desc",
-      "Requirements": {
-        "AllowedItemTypes": [
-          "Chest",
-          "Utility",
-          "Trinket"
-        ],
-        "ItemHasArmor": true
-      },
-      "ValuesPerRarity": {
-        "Magic": {
-          "MinValue": 4,
-          "MaxValue": 9,
-          "Increment": 1
-        },
-        "Rare": {
-          "MinValue": 7,
-          "MaxValue": 12,
-          "Increment": 1
-        },
-        "Epic": {
-          "MinValue": 9,
-          "MaxValue": 15,
-          "Increment": 1
-        },
-        "Legendary": {
-          "MinValue": 12,
-          "MaxValue": 18,
-          "Increment": 1
-        },
-        "Mythic": {
-          "MinValue": 15,
-          "MaxValue": 21,
-          "Increment": 1
-        },
-        "Ancient": {
-          "MinValue": 18,
-          "MaxValue": 24,
-          "Increment": 1
-        }
-      },
-      "SelectionWeight": 2,
-      "Prefixes": [
-        "$mod_epicloot_me_modifyarmorlowhealth_prefix1",
-        "$mod_epicloot_me_modifyarmorlowhealth_prefix2"
-      ],
-      "Suffixes": [
-        "$mod_epicloot_me_modifyarmorlowhealth_suffix1"
-      ]
-    },
-    {
-      "Type": "ModifyDamageLowHealth",
-      "DisplayText": "$mod_epicloot_me_modifydamagelowhealth_display",
-      "Description": "$mod_epicloot_me_modifydamagelowhealth_desc",
-      "Requirements": {
-        "AllowedItemTypes": [
-          "OneHandedWeapon",
-          "TwoHandedWeapon",
-          "TwoHandedWeaponLeft",
-          "Bow",
-          "Torch",
-          "Staff"
-        ]
-      },
-      "ValuesPerRarity": {
-        "Magic": {
-          "MinValue": 4,
-          "MaxValue": 9,
-          "Increment": 1
-        },
-        "Rare": {
-          "MinValue": 7,
-          "MaxValue": 12,
-          "Increment": 1
-        },
-        "Epic": {
-          "MinValue": 9,
-          "MaxValue": 15,
-          "Increment": 1
-        },
-        "Legendary": {
-          "MinValue": 12,
-          "MaxValue": 18,
-          "Increment": 1
-        },
-        "Mythic": {
-          "MinValue": 15,
-          "MaxValue": 21,
-          "Increment": 1
-        },
-        "Ancient": {
-          "MinValue": 18,
-          "MaxValue": 24,
-          "Increment": 1
-        }
-      },
-      "SelectionWeight": 10,
-      "Prefixes": [
-        "$mod_epicloot_me_modifydamagelowhealth_prefix1"
-      ],
-      "Suffixes": [
-        "$mod_epicloot_me_modifydamagelowhealth_suffix1"
-      ]
-    },
-    {
-      "Type": "ModifyBlockPowerLowHealth",
-      "DisplayText": "$mod_epicloot_me_modifyblockpowerlowhealth_display",
-      "Description": "$mod_epicloot_me_modifyblockpowerlowhealth_desc",
-      "Requirements": {
-        "AllowedItemTypes": [
-          "Shield",
-          "OneHandedWeapon",
-          "TwoHandedWeapon",
-          "TwoHandedWeaponLeft",
-          "Staff"
-        ],
-        "ItemHasBlockPower": true,
-        "ExclusiveEffectTypes": [
-          "Duelist"
-        ]
-      },
-      "ValuesPerRarity": {
-        "Magic": {
-          "MinValue": 4,
-          "MaxValue": 9,
-          "Increment": 1
-        },
-        "Rare": {
-          "MinValue": 7,
-          "MaxValue": 12,
-          "Increment": 1
-        },
-        "Epic": {
-          "MinValue": 9,
-          "MaxValue": 15,
-          "Increment": 1
-        },
-        "Legendary": {
-          "MinValue": 12,
-          "MaxValue": 18,
-          "Increment": 1
-        },
-        "Mythic": {
-          "MinValue": 15,
-          "MaxValue": 21,
-          "Increment": 1
-        },
-        "Ancient": {
-          "MinValue": 18,
-          "MaxValue": 24,
-          "Increment": 1
-        }
-      },
-      "SelectionWeight": 10,
-      "Prefixes": [
-        "$mod_epicloot_me_modifyblockpowerlowhealth_prefix1",
-        "$mod_epicloot_me_modifyblockpowerlowhealth_prefix2"
-      ],
-      "Suffixes": [
-        "$mod_epicloot_me_modifyblockpowerlowhealth_suffix1",
-        "$mod_epicloot_me_modifyblockpowerlowhealth_suffix2"
-      ]
-    },
-    {
-      "Type": "ModifyParryLowHealth",
-      "DisplayText": "$mod_epicloot_me_modifyparrylowhealth_display",
-      "Description": "$mod_epicloot_me_modifyparrylowhealth_desc",
-      "Requirements": {
-        "AllowedItemTypes": [
-          "Shield",
-          "OneHandedWeapon",
-          "TwoHandedWeapon",
-          "TwoHandedWeaponLeft"
-        ],
-        "ExcludedSkillTypes": [
-          "Pickaxes"
-        ],
-        "ExcludedItemNames": [
-          "$item_fishingrod"
-        ],
-        "ItemHasParryPower": true,
-        "ExclusiveEffectTypes": [
-          "Duelist"
-        ]
-      },
-      "ValuesPerRarity": {
-        "Magic": {
-          "MinValue": 4,
-          "MaxValue": 9,
-          "Increment": 1
-        },
-        "Rare": {
-          "MinValue": 7,
-          "MaxValue": 12,
-          "Increment": 1
-        },
-        "Epic": {
-          "MinValue": 9,
-          "MaxValue": 15,
-          "Increment": 1
-        },
-        "Legendary": {
-          "MinValue": 12,
-          "MaxValue": 18,
-          "Increment": 1
-        },
-        "Mythic": {
-          "MinValue": 15,
-          "MaxValue": 21,
-          "Increment": 1
-        },
-        "Ancient": {
-          "MinValue": 18,
-          "MaxValue": 24,
-          "Increment": 1
-        }
-      },
-      "SelectionWeight": 10,
-      "Prefixes": [
-        "$mod_epicloot_me_modifyparrylowhealth_prefix1",
-        "$mod_epicloot_me_modifyparrylowhealth_prefix2"
-      ],
-      "Suffixes": [
-        "$mod_epicloot_me_modifyparrylowhealth_suffix1"
-      ]
-    },
-    {
-      "Type": "ModifyAttackSpeedLowHealth",
-      "DisplayText": "$mod_epicloot_me_modifyattackspeedlowhealth_display",
-      "Description": "$mod_epicloot_me_modifyattackspeedlowhealth_desc",
-      "Requirements": {
-        "AllowedItemTypes": [
-          "OneHandedWeapon",
-          "TwoHandedWeapon",
-          "Tool",
-          "Staff"
-        ],
-        "ExcludedItemNames": [
-          "$item_fishingrod",
-          "$item_hammer",
-          "$item_hoe",
-          "$item_cultivator"
-        ]
-      },
-      "ValuesPerRarity": {
-        "Magic": {
-          "MinValue": 4,
-          "MaxValue": 9,
-          "Increment": 1
-        },
-        "Rare": {
-          "MinValue": 7,
-          "MaxValue": 12,
-          "Increment": 1
-        },
-        "Epic": {
-          "MinValue": 9,
-          "MaxValue": 15,
-          "Increment": 1
-        },
-        "Legendary": {
-          "MinValue": 12,
-          "MaxValue": 18,
-          "Increment": 1
-        },
-        "Mythic": {
-          "MinValue": 15,
-          "MaxValue": 21,
-          "Increment": 1
-        },
-        "Ancient": {
-          "MinValue": 18,
-          "MaxValue": 24,
-          "Increment": 1
-        }
-      },
-      "SelectionWeight": 10,
-      "Prefixes": [
-        "$mod_epicloot_me_modifyattackspeedlowhealth_prefix1"
-      ],
-      "Suffixes": [
-        "$mod_epicloot_me_modifyattackspeedlowhealth_suffix1"
-      ]
-    },
-    {
-      "Type": "AvoidDamageTakenLowHealth",
-      "DisplayText": "$mod_epicloot_me_avoiddamagetakenlowhealth_display",
-      "Description": "$mod_epicloot_me_avoiddamagetakenlowhealth_desc",
-      "Requirements": {
-        "AllowedItemTypes": [
-          "Chest",
-          "Shield"
-        ]
-      },
-      "ValuesPerRarity": {
-        "Magic": {
-          "MinValue": 4,
-          "MaxValue": 7,
-          "Increment": 1
-        },
-        "Rare": {
-          "MinValue": 5,
-          "MaxValue": 11,
-          "Increment": 1
-        },
-        "Epic": {
-          "MinValue": 9,
-          "MaxValue": 15,
-          "Increment": 1
-        },
-        "Legendary": {
-          "MinValue": 13,
-          "MaxValue": 19,
-          "Increment": 1
-        },
-        "Mythic": {
-          "MinValue": 17,
-          "MaxValue": 23,
-          "Increment": 1
-        },
-        "Ancient": {
-          "MinValue": 21,
-          "MaxValue": 27,
-          "Increment": 1
-        }
-      },
-      "SelectionWeight": 10,
-      "Prefixes": [
-        "$mod_epicloot_me_avoiddamagetakenlowhealth_prefix1"
-      ],
-      "Suffixes": [
-        "$mod_epicloot_me_avoiddamagetakenlowhealth_suffix1"
-      ]
-    },
-    {
-      "Type": "LifeStealLowHealth",
-      "DisplayText": "$mod_epicloot_me_lifesteallowhealth_display",
-      "Description": "$mod_epicloot_me_lifesteallowhealth_desc",
-      "Requirements": {
-        "AllowedItemTypes": [
-          "OneHandedWeapon",
-          "TwoHandedWeapon",
-          "TwoHandedWeaponLeft",
-          "Bow"
-        ],
-        "ExcludedSkillTypes": [
-          "Pickaxes"
-        ],
-        "AllowedRarities": [
-          "Rare",
-          "Epic",
-          "Legendary",
-          "Mythic",
-          "Ancient"
-        ],
-        "ExcludedItemNames": [
-          "$item_fishingrod"
-        ],
-        "ItemUsesStaminaOnAttack": true
-      },
-      "ValuesPerRarity": {
-        "Rare": {
-          "MinValue": 2,
-          "MaxValue": 8,
-          "Increment": 0.5
-        },
-        "Epic": {
-          "MinValue": 3,
-          "MaxValue": 10,
-          "Increment": 0.5
-        },
-        "Legendary": {
-          "MinValue": 4,
-          "MaxValue": 12,
-          "Increment": 0.5
-        },
-        "Mythic": {
-          "MinValue": 5,
-          "MaxValue": 15,
-          "Increment": 0.5
-        },
-        "Ancient": {
-          "MinValue": 6,
-          "MaxValue": 18,
-          "Increment": 0.5
-        }
-      },
-      "SelectionWeight": 10,
-      "Prefixes": [
-        "$mod_epicloot_me_lifesteallowhealth_prefix1"
-      ],
-      "Suffixes": [
-        "$mod_epicloot_me_lifesteallowhealth_suffix1"
-      ]
-    },
-    {
       "Type": "Glowing",
       "DisplayText": "$mod_epicloot_me_glowing_display",
       "Description": "$mod_epicloot_me_glowing_desc",
@@ -6551,9 +5825,7 @@
         "ItemUsesStaminaOnAttack": true,
         "ExclusiveEffectTypes": [
           "ModifyBlockPower",
-          "ModifyBlockPowerLowHealth",
           "ModifyParry",
-          "ModifyParryLowHealth",
           "SpellSword",
           "EitrWeave"
         ]
