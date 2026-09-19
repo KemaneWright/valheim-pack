@@ -1524,6 +1524,20 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "DvergerArbalest_shootAshlands",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "DvergerArbalest_shoot",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "CrossbowRipper",
         "CoinsCost": 1600,
         "ForestTokenCost": 0,
@@ -1629,218 +1643,267 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "FW_SwordBlackmetal",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "SwordGold",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "SwordGold_BloodLightning",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "THSwordGold",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "THSwordGold_BloodLightning",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "SwordGold_FrostFire",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "THSwordGold_FrostFire",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_AxeBronze",
+        "CoinsCost": 400,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "AxeGold",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "AxeGold_BloodLightning",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "AxeGold_FrostFire",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_BattleaxeCrystal",
+        "CoinsCost": 900,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "BattleaxeGold",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "BattleaxeGold_FrostFire",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "BattleaxeGold_BloodLightning",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_KnifeSilver",
+        "CoinsCost": 900,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "KnifeGold",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_KnifeSkollAndHati",
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "KnifeGold_BloodLightning",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "KnifeGold_FrostFire",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "FistGold_BloodLightning",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "FistGold",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "FistGold_FrostFire",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "StaffThunderBlood",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "StaffSpiritCaller",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "StaffOrbofAhri",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "StaffFrostOrbs",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_StaffFireball",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_StaffLightning",
+        "CoinsCost": 1600,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "MaceGold",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "MaceGold_FrostFire",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "MaceGold_BloodLightning",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "SledgeGold_BloodLightning",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "SledgeGold",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "SledgeGold_FrostFire",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "AtgeirGold",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "AtgeirGold_BloodLightning",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "AtgeirGold_FrostFire",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -1854,77 +1917,91 @@
       },
       {
         "Item": "SpearGold",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "SpearGold_BloodLightning",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "SpearGold_FrostFire",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_BowDraugrFang",
+        "CoinsCost": 900,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "CrossbowGold_FrostFire",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "GrapplingHook",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "BowGold_FrostFire",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "BowGold",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "CrossbowGold",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "BowGold_BloodLightning",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "CrossbowGold_BloodLightning",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "DvergerArbalest_shootDeepNorth",
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "ShieldGoldBuckler",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -1938,252 +2015,301 @@
       },
       {
         "Item": "ShieldGold",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_ShieldBlackmetalTower",
+        "CoinsCost": 1100,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "ShieldGoldTower",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SP_ArmorTrollLeatherChest",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SP_ArmorBronzeChest",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_ArmorBronzeChest",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_ArmorTrollLeatherChest",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SP_ArmorFenringChest",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_ArmorFenringChest",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SP_ArmorPaddedCuirass",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_ArmorPaddedCuirass",
+        "CoinsCost": 1100,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "ArmorDeepNorthMediumChest",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "ArmorDeepNorthMageChest",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_ArmorMageChest",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SP_ArmorMageChest",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SP_ArmorMageChest_Ashlands",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_ArmorMageChest_Ashlands",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SP_ArmorLeatherLegs",
+        "CoinsCost": 100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_ArmorBronzeLegs",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SP_ArmorTrollLeatherLegs",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SP_ArmorBronzeLegs",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_ArmorTrollLeatherLegs",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_ArmorFenringLegs",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SP_ArmorFenringLegs",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_ArmorPaddedGreaves",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SP_ArmorPaddedGreaves",
+        "CoinsCost": 1100,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "ArmorDeepNorthMediumlegs",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "ArmorDeepNorthMagelegs",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SP_ArmorMageLegs",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SP_ArmorMageLegs_Ashlands",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_ArmorMageLegs_Ashlands",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_ArmorMageLegs",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_HelmetBronze",
+        "CoinsCost": 400,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "HelmetDNMage",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "HelmetDNMediumHood",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "HelmetCrownofValheim",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_CapeTrollHide",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_CapeWolf",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FW_CapeLinen",
+        "CoinsCost": 1100,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "CapeDeepNorth",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "CapeDeepNorthMage",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "TrinketBloodGoldHealth",
-        "CoinsCost": 1900,
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
       },
       {
         "Item": "TrinketBloodGoldStamina",
-        "CoinsCost": 1900,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_Sword_Flint",
-        "CoinsCost": 100,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_TH_Sword_Flint",
-        "CoinsCost": 100,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_TH_Sword_Bronze",
-        "CoinsCost": 400,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_TH_Sword_Iron",
-        "CoinsCost": 600,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_TH_Sword_Silver",
-        "CoinsCost": 900,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_TH_Sword_Blackmetal",
-        "CoinsCost": 1100,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_Axe_Silver",
-        "CoinsCost": 900,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_TH_Axe_Flint",
-        "CoinsCost": 100,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_TH_Axe_Bronze",
-        "CoinsCost": 400,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_TH_Axe_Blackmetal",
-        "CoinsCost": 1100,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_TH_Axe_Marble",
         "CoinsCost": 1300,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "KnifeVoid",
-        "CoinsCost": 1900,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_Mace_Marble",
-        "CoinsCost": 1300,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_Sledge_Bronze",
-        "CoinsCost": 400,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_Sledge_Silver",
-        "CoinsCost": 900,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_Sledge_Blackmetal",
-        "CoinsCost": 1100,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_Atgeir_Flint",
-        "CoinsCost": 100,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_Atgeir_Silver",
-        "CoinsCost": 900,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "GF_Spear_Blackmetal",
-        "CoinsCost": 1100,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "ArmorDeepNorthHeavyChest",
-        "CoinsCost": 1900,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "ArmorDeepNorthHeavylegs",
-        "CoinsCost": 1900,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "HelmetDNHeavy",
-        "CoinsCost": 1900,
-        "ForestTokenCost": 0,
-        "IronBountyTokenCost": 0,
-        "GoldBountyTokenCost": 0
-      },
-      {
-        "Item": "HelmetLox",
-        "CoinsCost": 1900,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -2272,16 +2398,6 @@
         "Coins": 0,
         "MinRadius": 8000.0,
         "MaxRadius": 10500.0
-      },
-      {
-        "Biome": "64",
-        "Cost": 800,
-        "ForestTokens": 40,
-        "GoldTokens": 0,
-        "IronTokens": 0,
-        "Coins": 0,
-        "MinRadius": 9000.0,
-        "MaxRadius": 12000.0
       }
     ],
     "StartRadiusMin": 0.0,
@@ -2931,86 +3047,6 @@
             "Count": 2
           }
         ]
-      },
-      {
-        "Biome": "64",
-        "TargetID": "Barka",
-        "RewardGold": 6,
-        "RewardIron": 8,
-        "RewardCoins": 750,
-        "Adds": []
-      },
-      {
-        "Biome": "64",
-        "TargetID": "Elaking",
-        "RewardGold": 6,
-        "RewardIron": 8,
-        "RewardCoins": 750,
-        "Adds": []
-      },
-      {
-        "Biome": "64",
-        "TargetID": "JotunWarrior",
-        "RewardGold": 5,
-        "RewardIron": 7,
-        "RewardCoins": 700,
-        "Adds": []
-      },
-      {
-        "Biome": "64",
-        "TargetID": "TrollFrost",
-        "RewardGold": 5,
-        "RewardIron": 7,
-        "RewardCoins": 700,
-        "Adds": []
-      },
-      {
-        "Biome": "64",
-        "TargetID": "Writhan",
-        "RewardGold": 6,
-        "RewardIron": 8,
-        "RewardCoins": 750,
-        "Adds": []
-      },
-      {
-        "Biome": "64",
-        "TargetID": "FallenWarrior",
-        "RewardGold": 5,
-        "RewardIron": 6,
-        "RewardCoins": 700,
-        "Adds": []
-      },
-      {
-        "Biome": "64",
-        "TargetID": "GoblinDeepNorth",
-        "RewardGold": 4,
-        "RewardIron": 6,
-        "RewardCoins": 650,
-        "Adds": []
-      },
-      {
-        "Biome": "64",
-        "TargetID": "Moose_spiritcaller",
-        "RewardGold": 5,
-        "RewardIron": 6,
-        "RewardCoins": 700,
-        "Adds": []
-      },
-      {
-        "Biome": "64",
-        "TargetID": "Ghost_Void",
-        "RewardGold": 5,
-        "RewardIron": 6,
-        "RewardCoins": 700,
-        "Adds": []
-      },
-      {
-        "Biome": "64",
-        "TargetID": "DvergerDeepNorth",
-        "RewardGold": 4,
-        "RewardIron": 6,
-        "RewardCoins": 650,
-        "Adds": []
       }
     ],
     "Bosses": [
@@ -3053,11 +3089,6 @@
         "Biome": "32",
         "BossPrefab": "Fader",
         "BossDefeatedKey": "defeated_fader"
-      },
-      {
-        "Biome": "64",
-        "BossPrefab": "FrozenKing_p3",
-        "BossDefeatedKey": "defeated_frozenking_p3"
       }
     ],
     "Names": {

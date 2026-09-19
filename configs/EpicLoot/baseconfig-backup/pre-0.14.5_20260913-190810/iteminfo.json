@@ -11,29 +11,29 @@
           "THSwordWood",
           "SwordWood"
         ],
-        "defeated_eikthyr": [
-          "GF_Sword_Flint",
-          "GF_TH_Sword_Flint"
-        ],
+        "defeated_eikthyr": [],
         "defeated_gdking": [
-          "GF_TH_Sword_Bronze",
           "SwordBronze"
         ],
         "defeated_bonemass": [
-          "GF_TH_Sword_Iron",
           "SwordIron"
         ],
         "defeated_dragon": [
-          "GF_TH_Sword_Silver",
           "SwordSilver"
         ],
         "defeated_goblinking": [
-          "GF_TH_Sword_Blackmetal",
-          "SwordBlackmetal"
+          "SwordBlackmetal",
+          "FW_SwordBlackmetal"
         ],
         "defeated_queen": [
+          "SwordGold",
+          "SwordGold_BloodLightning",
+          "THSwordGold",
+          "THSwordGold_BloodLightning",
+          "SwordGold_FrostFire",
           "THSwordKrom",
-          "SwordMistwalker"
+          "SwordMistwalker",
+          "THSwordGold_FrostFire"
         ],
         "defeated_fader": [
           "SwordNiedhoggNature",
@@ -45,14 +45,6 @@
           "THSwordSlayerNature",
           "SwordDyrnwyn",
           "THSwordSlayerLightning"
-        ],
-        "defeated_frozenking_p3": [
-          "SwordGold",
-          "SwordGold_BloodLightning",
-          "THSwordGold",
-          "THSwordGold_BloodLightning",
-          "SwordGold_FrostFire",
-          "THSwordGold_FrostFire"
         ]
       }
     },
@@ -71,26 +63,23 @@
           "AxeStone"
         ],
         "defeated_gdking": [
-          "AxeBronze"
+          "AxeBronze",
+          "FW_AxeBronze"
         ],
         "defeated_bonemass": [
           "AxeIron"
         ],
-        "defeated_dragon": [
-          "GF_Axe_Silver"
-        ],
+        "defeated_dragon": [],
         "defeated_goblinking": [
           "AxeBlackMetal"
         ],
         "defeated_queen": [
-          "AxeJotunBane"
-        ],
-        "defeated_fader": [],
-        "defeated_frozenking_p3": [
           "AxeGold",
           "AxeGold_BloodLightning",
-          "AxeGold_FrostFire"
-        ]
+          "AxeGold_FrostFire",
+          "AxeJotunBane"
+        ],
+        "defeated_fader": []
       }
     },
     {
@@ -104,36 +93,30 @@
           "BattleaxeWood"
         ],
         "defeated_eikthyr": [
-          "GF_TH_Axe_Flint",
           "AxeEarly"
         ],
-        "defeated_gdking": [
-          "GF_TH_Axe_Bronze"
-        ],
+        "defeated_gdking": [],
         "defeated_bonemass": [
           "Battleaxe"
         ],
         "defeated_dragon": [
+          "FW_BattleaxeCrystal",
           "BattleaxeCrystal"
         ],
         "defeated_goblinking": [
-          "GF_TH_Axe_Blackmetal",
           "BattleaxeBlackmetal"
         ],
         "defeated_queen": [
-          "GF_TH_Axe_Marble",
-          "BattleaxeSkullSplittur"
+          "BattleaxeGold",
+          "BattleaxeSkullSplittur",
+          "BattleaxeGold_FrostFire",
+          "BattleaxeGold_BloodLightning"
         ],
         "defeated_fader": [
           "AxeBerzerkrNature",
           "AxeBerzerkr",
           "AxeBerzerkrBlood",
           "AxeBerzerkrLightning"
-        ],
-        "defeated_frozenking_p3": [
-          "BattleaxeGold",
-          "BattleaxeGold_FrostFire",
-          "BattleaxeGold_BloodLightning"
         ]
       }
     },
@@ -158,21 +141,20 @@
           "KnifeChitin"
         ],
         "defeated_dragon": [
-          "KnifeSilver"
+          "KnifeSilver",
+          "FW_KnifeSilver"
         ],
         "defeated_goblinking": [
           "KnifeBlackMetal"
         ],
         "defeated_queen": [
-          "KnifeSkollAndHati"
-        ],
-        "defeated_fader": [],
-        "defeated_frozenking_p3": [
           "KnifeGold",
-          "KnifeVoid",
+          "FW_KnifeSkollAndHati",
+          "KnifeSkollAndHati",
           "KnifeGold_BloodLightning",
           "KnifeGold_FrostFire"
-        ]
+        ],
+        "defeated_fader": []
       }
     },
     {
@@ -194,13 +176,12 @@
         "defeated_goblinking": [
           "FistBjornUndeadClaw"
         ],
-        "defeated_queen": [],
-        "defeated_fader": [],
-        "defeated_frozenking_p3": [
+        "defeated_queen": [
           "FistGold_BloodLightning",
           "FistGold",
           "FistGold_FrostFire"
-        ]
+        ],
+        "defeated_fader": []
       }
     },
     {
@@ -217,22 +198,22 @@
         "defeated_dragon": [],
         "defeated_goblinking": [],
         "defeated_queen": [
+          "StaffThunderBlood",
+          "StaffSpiritCaller",
           "StaffIceShards",
+          "StaffOrbofAhri",
+          "StaffFrostOrbs",
           "StaffSkeleton",
           "StaffShield",
-          "StaffFireball"
+          "StaffFireball",
+          "FW_StaffFireball"
         ],
         "defeated_fader": [
           "StaffLightning",
           "StaffGreenRoots",
           "StaffRedTroll",
-          "StaffClusterbomb"
-        ],
-        "defeated_frozenking_p3": [
-          "StaffThunderBlood",
-          "StaffSpiritCaller",
-          "StaffOrbofAhri",
-          "StaffFrostOrbs"
+          "StaffClusterbomb",
+          "FW_StaffLightning"
         ]
       }
     },
@@ -262,18 +243,15 @@
           "MaceNeedle"
         ],
         "defeated_queen": [
-          "GF_Mace_Marble"
+          "MaceGold",
+          "MaceGold_FrostFire",
+          "MaceGold_BloodLightning"
         ],
         "defeated_fader": [
           "MaceEldnerBlood",
           "MaceEldner",
           "MaceEldnerLightning",
           "MaceEldnerNature"
-        ],
-        "defeated_frozenking_p3": [
-          "MaceGold",
-          "MaceGold_FrostFire",
-          "MaceGold_BloodLightning"
         ]
       }
     },
@@ -290,27 +268,19 @@
         "defeated_eikthyr": [
           "SledgeStagbreaker"
         ],
-        "defeated_gdking": [
-          "GF_Sledge_Bronze"
-        ],
+        "defeated_gdking": [],
         "defeated_bonemass": [
           "SledgeIron"
         ],
-        "defeated_dragon": [
-          "GF_Sledge_Silver"
-        ],
-        "defeated_goblinking": [
-          "GF_Sledge_Blackmetal"
-        ],
+        "defeated_dragon": [],
+        "defeated_goblinking": [],
         "defeated_queen": [
-          "SledgeDemolisher"
-        ],
-        "defeated_fader": [],
-        "defeated_frozenking_p3": [
           "SledgeGold_BloodLightning",
           "SledgeGold",
+          "SledgeDemolisher",
           "SledgeGold_FrostFire"
-        ]
+        ],
+        "defeated_fader": []
       }
     },
     {
@@ -323,9 +293,7 @@
         "none": [
           "AtgeirWood"
         ],
-        "defeated_eikthyr": [
-          "GF_Atgeir_Flint"
-        ],
+        "defeated_eikthyr": [],
         "defeated_gdking": [
           "AtgeirBronze"
         ],
@@ -333,22 +301,19 @@
           "AtgeirIron"
         ],
         "defeated_dragon": [
-          "GF_Atgeir_Silver",
           "Scythe"
         ],
         "defeated_goblinking": [
           "AtgeirBlackmetal"
         ],
         "defeated_queen": [
-          "AtgeirHimminAfl"
+          "AtgeirGold",
+          "AtgeirHimminAfl",
+          "AtgeirGold_BloodLightning",
+          "AtgeirGold_FrostFire"
         ],
         "defeated_fader": [
           "Shovel"
-        ],
-        "defeated_frozenking_p3": [
-          "AtgeirGold",
-          "AtgeirGold_BloodLightning",
-          "AtgeirGold_FrostFire"
         ]
       }
     },
@@ -375,22 +340,18 @@
         "defeated_dragon": [
           "SpearWolfFang"
         ],
-        "defeated_goblinking": [
-          "GF_Spear_Blackmetal"
-        ],
+        "defeated_goblinking": [],
         "defeated_queen": [
-          "SpearCarapace"
+          "SpearGold",
+          "SpearGold_BloodLightning",
+          "SpearCarapace",
+          "SpearGold_FrostFire"
         ],
         "defeated_fader": [
           "SpearSplitner",
           "SpearSplitner_Lightning",
           "SpearSplitner_Nature",
           "SpearSplitner_Blood"
-        ],
-        "defeated_frozenking_p3": [
-          "SpearGold",
-          "SpearGold_BloodLightning",
-          "SpearGold_FrostFire"
         ]
       }
     },
@@ -437,12 +398,23 @@
           "BowHuntsman"
         ],
         "defeated_dragon": [
+          "FW_BowDraugrFang",
           "BowDraugrFang"
         ],
         "defeated_goblinking": [],
         "defeated_queen": [
+          "CrossbowGold_FrostFire",
+          "GrapplingHook",
+          "BowGold_FrostFire",
+          "BowGold",
+          "CrossbowGold",
           "CrossbowArbalest",
-          "BowSpineSnap"
+          "BowGold_BloodLightning",
+          "DvergerArbalest_shootAshlands",
+          "DvergerArbalest_shoot",
+          "BowSpineSnap",
+          "CrossbowGold_BloodLightning",
+          "DvergerArbalest_shootDeepNorth"
         ],
         "defeated_fader": [
           "CrossbowRipper",
@@ -453,15 +425,6 @@
           "BowAshlandsStorm",
           "CrossbowRipperLightning",
           "CrossbowRipperNature"
-        ],
-        "defeated_frozenking_p3": [
-          "CrossbowGold_FrostFire",
-          "GrapplingHook",
-          "BowGold_FrostFire",
-          "BowGold",
-          "CrossbowGold",
-          "BowGold_BloodLightning",
-          "CrossbowGold_BloodLightning"
         ]
       }
     },
@@ -483,12 +446,10 @@
         "defeated_dragon": [],
         "defeated_goblinking": [],
         "defeated_queen": [
+          "ShieldGoldBuckler",
           "ShieldCarapaceBuckler"
         ],
-        "defeated_fader": [],
-        "defeated_frozenking_p3": [
-          "ShieldGoldBuckler"
-        ]
+        "defeated_fader": []
       }
     },
     {
@@ -515,13 +476,11 @@
           "ShieldBlackmetal"
         ],
         "defeated_queen": [
+          "ShieldGold",
           "ShieldCarapace"
         ],
         "defeated_fader": [
           "ShieldFlametal"
-        ],
-        "defeated_frozenking_p3": [
-          "ShieldGold"
         ]
       }
     },
@@ -545,14 +504,14 @@
         ],
         "defeated_dragon": [],
         "defeated_goblinking": [
+          "FW_ShieldBlackmetalTower",
           "ShieldBlackmetalTower"
         ],
-        "defeated_queen": [],
+        "defeated_queen": [
+          "ShieldGoldTower"
+        ],
         "defeated_fader": [
           "ShieldFlametalTower"
-        ],
-        "defeated_frozenking_p3": [
-          "ShieldGoldTower"
         ]
       }
     },
@@ -572,7 +531,11 @@
         "defeated_gdking": [
           "ArmorTrollLeatherChest",
           "ArmorBronzeChest",
-          "ArmorBerserkerChest"
+          "SP_ArmorTrollLeatherChest",
+          "ArmorBerserkerChest",
+          "SP_ArmorBronzeChest",
+          "FW_ArmorBronzeChest",
+          "FW_ArmorTrollLeatherChest"
         ],
         "defeated_bonemass": [
           "ArmorIronChest",
@@ -580,25 +543,30 @@
         ],
         "defeated_dragon": [
           "ArmorFenringChest",
-          "ArmorWolfChest"
+          "ArmorWolfChest",
+          "SP_ArmorFenringChest",
+          "FW_ArmorFenringChest"
         ],
         "defeated_goblinking": [
           "ArmorPaddedCuirass",
-          "ArmorBerserkerUndeadChest"
+          "SP_ArmorPaddedCuirass",
+          "ArmorBerserkerUndeadChest",
+          "FW_ArmorPaddedCuirass"
         ],
         "defeated_queen": [
+          "ArmorDeepNorthMediumChest",
           "ArmorMageChest",
-          "ArmorCarapaceChest"
+          "ArmorCarapaceChest",
+          "ArmorDeepNorthMageChest",
+          "FW_ArmorMageChest",
+          "SP_ArmorMageChest"
         ],
         "defeated_fader": [
+          "SP_ArmorMageChest_Ashlands",
           "ArmorMageChest_Ashlands",
           "ArmorAshlandsMediumChest",
-          "ArmorFlametalChest"
-        ],
-        "defeated_frozenking_p3": [
-          "ArmorDeepNorthMediumChest",
-          "ArmorDeepNorthHeavyChest",
-          "ArmorDeepNorthMageChest"
+          "ArmorFlametalChest",
+          "FW_ArmorMageChest_Ashlands"
         ]
       }
     },
@@ -613,38 +581,48 @@
           "ArmorRagsLegs"
         ],
         "defeated_eikthyr": [
+          "SP_ArmorLeatherLegs",
           "ArmorLeatherLegs"
         ],
         "defeated_gdking": [
           "ArmorTrollLeatherLegs",
           "ArmorBerserkerLegs",
-          "ArmorBronzeLegs"
+          "FW_ArmorBronzeLegs",
+          "ArmorBronzeLegs",
+          "SP_ArmorTrollLeatherLegs",
+          "SP_ArmorBronzeLegs",
+          "FW_ArmorTrollLeatherLegs"
         ],
         "defeated_bonemass": [
           "ArmorIronLegs",
           "ArmorRootLegs"
         ],
         "defeated_dragon": [
+          "FW_ArmorFenringLegs",
           "ArmorFenringLegs",
-          "ArmorWolfLegs"
+          "ArmorWolfLegs",
+          "SP_ArmorFenringLegs"
         ],
         "defeated_goblinking": [
+          "FW_ArmorPaddedGreaves",
           "ArmorBerserkerUndeadLegs",
-          "ArmorPaddedGreaves"
+          "ArmorPaddedGreaves",
+          "SP_ArmorPaddedGreaves"
         ],
         "defeated_queen": [
           "ArmorMageLegs",
-          "ArmorCarapaceLegs"
+          "ArmorCarapaceLegs",
+          "ArmorDeepNorthMediumlegs",
+          "ArmorDeepNorthMagelegs",
+          "SP_ArmorMageLegs",
+          "SP_ArmorMageLegs_Ashlands",
+          "FW_ArmorMageLegs_Ashlands",
+          "FW_ArmorMageLegs"
         ],
         "defeated_fader": [
           "ArmorFlametalLegs",
           "ArmorAshlandsMediumlegs",
           "ArmorMageLegs_Ashlands"
-        ],
-        "defeated_frozenking_p3": [
-          "ArmorDeepNorthHeavylegs",
-          "ArmorDeepNorthMediumlegs",
-          "ArmorDeepNorthMagelegs"
         ]
       }
     },
@@ -663,6 +641,7 @@
           "HelmetBronze",
           "HelmetCelebration",
           "HelmetTrollLeather",
+          "FW_HelmetBronze",
           "HelmetBerserkerHood"
         ],
         "defeated_bonemass": [
@@ -679,19 +658,15 @@
         ],
         "defeated_queen": [
           "HelmetMage",
-          "HelmetCarapace"
+          "HelmetCarapace",
+          "HelmetDNMage",
+          "HelmetDNMediumHood",
+          "HelmetCrownofValheim"
         ],
         "defeated_fader": [
           "HelmetFlametal",
           "HelmetAshlandsMediumHood",
           "HelmetMage_Ashlands"
-        ],
-        "defeated_frozenking_p3": [
-          "HelmetDNMage",
-          "HelmetDNHeavy",
-          "HelmetLox",
-          "HelmetDNMediumHood",
-          "HelmetCrownofValheim"
         ]
       }
     },
@@ -707,26 +682,27 @@
           "CapeDeerHide"
         ],
         "defeated_gdking": [
+          "FW_CapeTrollHide",
           "CapeTrollHide"
         ],
         "defeated_bonemass": [],
         "defeated_dragon": [
-          "CapeWolf"
+          "CapeWolf",
+          "FW_CapeWolf"
         ],
         "defeated_goblinking": [
+          "FW_CapeLinen",
           "CapeLox",
           "CapeLinen"
         ],
         "defeated_queen": [
-          "CapeFeather"
+          "CapeDeepNorth",
+          "CapeFeather",
+          "CapeDeepNorthMage"
         ],
         "defeated_fader": [
           "CapeAsksvin",
           "CapeAsh"
-        ],
-        "defeated_frozenking_p3": [
-          "CapeDeepNorth",
-          "CapeDeepNorthMage"
         ]
       }
     },
@@ -826,15 +802,13 @@
         ],
         "defeated_queen": [
           "TrinketCarapaceEitr",
-          "TrinketScaleStaminaDamage"
+          "TrinketScaleStaminaDamage",
+          "TrinketBloodGoldHealth",
+          "TrinketBloodGoldStamina"
         ],
         "defeated_fader": [
           "TrinketFlametalEitr",
           "TrinketFlametalStaminaHealth"
-        ],
-        "defeated_frozenking_p3": [
-          "TrinketBloodGoldHealth",
-          "TrinketBloodGoldStamina"
         ]
       }
     }
