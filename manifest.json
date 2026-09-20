@@ -689,7 +689,7 @@
     {
       "path": "BepInEx/config/randyknapp.mods.epicloot.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/randyknapp.mods.epicloot.cfg",
-      "sha256": "437258b1b163107040b2661551cd0f3024676eeeb4a37c902862395fc13fc6c7"
+      "sha256": "a7fb847250975c22303ab65d9590ce62fd876680815a25052c9c48a7121b5508"
     },
     {
       "path": "BepInEx/config/randyknapp.mods.equipmentandquickslots.cfg",
