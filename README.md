@@ -1,6 +1,6 @@
 # Midgard
 
-Pack version: `2026.09.19`
+Pack version: `2026.09.20`
 
 This is the public friends pack (`KemaneWright/valheim-pack`). **Publish Profile** in the manager writes, commits, and pushes this repository. Friends' launchers pull the raw `manifest.json` URL. The manager/launcher source stays in the private `valheim-launcher` repo.
 

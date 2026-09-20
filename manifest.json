@@ -1,5 +1,5 @@
 {
-  "pack_version": "2026.09.19",
+  "pack_version": "2026.09.20",
   "game": "valheim",
   "manifest_url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/manifest.json",
   "bepinex": {
@@ -579,7 +579,7 @@
     {
       "path": "BepInEx/config/blacks7ar.LazyVikings.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/blacks7ar.LazyVikings.cfg",
-      "sha256": "c081705d25b0a2f8d21c8f155b85c93282789965a19e5bc2b8c4000632706eee"
+      "sha256": "747f87785b1578918be34e83e192becf085a353d2de13e0923c345c2c7d55286"
     },
     {
       "path": "BepInEx/config/blacks7ar.SeedBed.cfg",
