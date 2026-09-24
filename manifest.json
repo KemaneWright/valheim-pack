@@ -1,5 +1,5 @@
 {
-  "pack_version": "2026.09.22",
+  "pack_version": "2026.09.24",
   "game": "valheim",
   "manifest_url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/manifest.json",
   "bepinex": {
@@ -12,8 +12,8 @@
     {
       "namespace": "Advize",
       "name": "PlantEasily",
-      "version": "2.2.0",
-      "url": "https://thunderstore.io/package/download/Advize/PlantEasily/2.2.0/"
+      "version": "2.2.2",
+      "url": "https://thunderstore.io/package/download/Advize/PlantEasily/2.2.2/"
     },
     {
       "namespace": "Advize",
@@ -42,8 +42,8 @@
     {
       "namespace": "Azumatt",
       "name": "AzuCraftyBoxes",
-      "version": "1.8.22",
-      "url": "https://cdn.hexium.gg/upload/48/1.8.22.zip"
+      "version": "1.8.23",
+      "url": "https://cdn.hexium.gg/upload/48/1.8.23.zip"
     },
     {
       "namespace": "Azumatt",
@@ -96,8 +96,8 @@
     {
       "namespace": "RandyKnapp",
       "name": "EpicLoot",
-      "version": "0.14.11",
-      "url": "https://thunderstore.io/package/download/RandyKnapp/EpicLoot/0.14.11/"
+      "version": "0.14.13",
+      "url": "https://thunderstore.io/package/download/RandyKnapp/EpicLoot/0.14.13/"
     },
     {
       "namespace": "RandyKnapp",
@@ -210,8 +210,8 @@
     {
       "namespace": "Smoothbrain",
       "name": "TargetPortal",
-      "version": "1.2.6",
-      "url": "https://cdn.hexium.gg/upload/231/1.2.6.zip"
+      "version": "1.2.7",
+      "url": "https://cdn.hexium.gg/upload/231/1.2.7.zip"
     },
     {
       "namespace": "Smoothbrain",
@@ -222,8 +222,8 @@
     {
       "namespace": "Smoothbrain",
       "name": "Vitality",
-      "version": "1.1.5",
-      "url": "https://cdn.hexium.gg/upload/367/1.1.5.zip"
+      "version": "1.1.6",
+      "url": "https://cdn.hexium.gg/upload/367/1.1.6.zip"
     },
     {
       "namespace": "TastyChickenLegs",
