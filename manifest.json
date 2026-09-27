@@ -522,7 +522,7 @@
     {
       "path": "BepInEx/config/advize.PlantEasily.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/advize.PlantEasily.cfg",
-      "sha256": "226b0260d2deb3bf4d9b40814b65ec725fbdb2f14d34586285672a23d65b7f34"
+      "sha256": "6d369406c037ac06c2ddb60de2b3741c3f0d273225f3c5ed426b9b2779d06c95"
     },
     {
       "path": "BepInEx/config/advize.PlantEverything.cfg",
@@ -602,7 +602,7 @@
     {
       "path": "BepInEx/config/org.bepinex.plugins.foodstaminaregen.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.foodstaminaregen.cfg",
-      "sha256": "86227f3e7bc0cb6da0a5120473de06837f65b752b0b77d4dd0bfa9d2982f3217"
+      "sha256": "fc446831ad196667f5de2ef6ece363aa00b4ea80a18dc3b26cc61ba05a476aaf"
     },
     {
       "path": "BepInEx/config/org.bepinex.plugins.gapfiller.cfg",
@@ -642,12 +642,12 @@
     {
       "path": "BepInEx/config/randyknapp.mods.epicloot.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/randyknapp.mods.epicloot.cfg",
-      "sha256": "52f9911a56e765e27751916a951c1cf1b4f98c4de085be850b191e1d0072a295"
+      "sha256": "a781a817c74579383627e973255039c217b4570505d068ea47dec4006ad8b8f7"
     },
     {
       "path": "BepInEx/config/randyknapp.mods.equipmentandquickslots.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/randyknapp.mods.equipmentandquickslots.cfg",
-      "sha256": "44359c39f83503910ee3705d70e7dd509871cf477bf28dc01c66ebc2facdbdfe"
+      "sha256": "987522b65ca1f4725219610e3c44d76521c7c9f488c7da063444b2c811499ded"
     },
     {
       "path": "BepInEx/config/randyknapp.mods.minimalstatuseffects.cfg",
