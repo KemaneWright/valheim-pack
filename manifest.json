@@ -1,5 +1,5 @@
 {
-  "pack_version": "2026.09.26",
+  "pack_version": "2026.09.27",
   "game": "valheim",
   "manifest_url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/manifest.json",
   "bepinex": {
@@ -100,16 +100,16 @@
       "url": "https://thunderstore.io/package/download/Goldenrevolver/Quick_Stack_Store_Sort_Trash_Restock/1.4.15/"
     },
     {
-      "namespace": "JereKuusela",
-      "name": "Infinity_Hammer",
-      "version": "1.84.0",
-      "url": "https://thunderstore.io/package/download/JereKuusela/Infinity_Hammer/1.84.0/"
-    },
-    {
       "namespace": "MSchmoecker",
       "name": "MultiUserChest",
       "version": "0.6.2",
       "url": "https://thunderstore.io/package/download/MSchmoecker/MultiUserChest/0.6.2/"
+    },
+    {
+      "namespace": "MathiasDecrock",
+      "name": "PlanBuild",
+      "version": "0.19.1",
+      "url": "https://thunderstore.io/package/download/MathiasDecrock/PlanBuild/0.19.1/"
     },
     {
       "namespace": "RandyKnapp",
@@ -122,12 +122,6 @@
       "name": "EquipmentAndQuickSlots",
       "version": "3.1.3",
       "url": "https://thunderstore.io/package/download/RandyKnapp/EquipmentAndQuickSlots/3.1.3/"
-    },
-    {
-      "namespace": "RandyKnapp",
-      "name": "Jam",
-      "version": "2.0.0",
-      "url": "https://thunderstore.io/package/download/RandyKnapp/Jam/2.0.0/"
     },
     {
       "namespace": "RandyKnapp",
@@ -274,12 +268,6 @@
       "url": "https://thunderstore.io/package/download/blacks7ar/LazyVikings/1.2.4/"
     },
     {
-      "namespace": "blacks7ar",
-      "name": "SeedBed",
-      "version": "1.2.9",
-      "url": "https://thunderstore.io/package/download/blacks7ar/SeedBed/1.2.9/"
-    },
-    {
       "namespace": "momos3939",
       "name": "ValheimLegends",
       "version": "0.7.10",
@@ -290,18 +278,6 @@
       "name": "ItemStacksItemWeights",
       "version": "1.1.1",
       "url": "https://thunderstore.io/package/download/shudnal/ItemStacksItemWeights/1.1.1/"
-    },
-    {
-      "namespace": "JereKuusela",
-      "name": "Server_devcommands",
-      "version": "1.115.0",
-      "url": "https://thunderstore.io/package/download/JereKuusela/Server_devcommands/1.115.0/"
-    },
-    {
-      "namespace": "JereKuusela",
-      "name": "World_Edit_Commands",
-      "version": "1.77.0",
-      "url": "https://thunderstore.io/package/download/JereKuusela/World_Edit_Commands/1.77.0/"
     },
     {
       "namespace": "ValheimModding",
@@ -347,7 +323,7 @@
     {
       "path": "BepInEx/config/Azumatt.AzuCraftyBoxes.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/Azumatt.AzuCraftyBoxes.cfg",
-      "sha256": "72930147823f0608fe7e56f3c9a6db64f4664e102b23a937ca6f5cb89020a9cd"
+      "sha256": "2a29677df23b451129907e7f6551fc2b6c683470d2094d433e70ecf6fb482736"
     },
     {
       "path": "BepInEx/config/Azumatt.AzuCraftyBoxes.yml",
@@ -407,12 +383,12 @@
     {
       "path": "BepInEx/config/EpicLoot/baseconfig/enchantcosts.json",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/EpicLoot/baseconfig/enchantcosts.json",
-      "sha256": "0e10096c460fa4a7e2917bf57294d30bf577f86982dc99637c15a3d215407d60"
+      "sha256": "a23797ed3d08251b79a47790882bc730ca82551d18020d0e5190ac59ed7e1af8"
     },
     {
       "path": "BepInEx/config/EpicLoot/baseconfig/enchantingupgrades.json",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/EpicLoot/baseconfig/enchantingupgrades.json",
-      "sha256": "c81724ec570554f55d6b52c20e6990c0ab0feb4d7f831ae7e240a196f3c42f70"
+      "sha256": "e379127690d995a43229e94866d5623a965eb1dbf391f17a573087f7ba156749"
     },
     {
       "path": "BepInEx/config/EpicLoot/baseconfig/iteminfo.json",
@@ -552,7 +528,7 @@
     {
       "path": "BepInEx/config/advize.PlantEasily.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/advize.PlantEasily.cfg",
-      "sha256": "6d369406c037ac06c2ddb60de2b3741c3f0d273225f3c5ed426b9b2779d06c95"
+      "sha256": "226b0260d2deb3bf4d9b40814b65ec725fbdb2f14d34586285672a23d65b7f34"
     },
     {
       "path": "BepInEx/config/advize.PlantEverything.cfg",
@@ -578,6 +554,11 @@
       "path": "BepInEx/config/blacks7ar.Fermenting.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/blacks7ar.Fermenting.cfg",
       "sha256": "86a0bfa6d9205cb08e0224d52df0a78d8f42b8769afd203fb964c8917472a492"
+    },
+    {
+      "path": "BepInEx/config/blacks7ar.FoodDurationMultiplier.cfg",
+      "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/blacks7ar.FoodDurationMultiplier.cfg",
+      "sha256": "8ade06887b3b483c2163f984f03c8c554c2f7623e8f65986aa3d7881bc9c0c21"
     },
     {
       "path": "BepInEx/config/blacks7ar.LazyVikings.cfg",
@@ -627,7 +608,7 @@
     {
       "path": "BepInEx/config/org.bepinex.plugins.creaturelevelcontrol.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/org.bepinex.plugins.creaturelevelcontrol.cfg",
-      "sha256": "15ed4934b1e38976a1db2511f3f230a47092660df1b53177b58e17a7eb1fe942"
+      "sha256": "861a7f8b3aec01685434d4c918a0f0ac5a20d82098020b61040bae8c68bb1f1d"
     },
     {
       "path": "BepInEx/config/org.bepinex.plugins.dualwield.cfg",
@@ -692,7 +673,7 @@
     {
       "path": "BepInEx/config/randyknapp.mods.epicloot.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/randyknapp.mods.epicloot.cfg",
-      "sha256": "8a215e20ddb490eefec58ceb7962305d7d93bbedbd7b48ddc9b75d396cf84f82"
+      "sha256": "52f9911a56e765e27751916a951c1cf1b4f98c4de085be850b191e1d0072a295"
     },
     {
       "path": "BepInEx/config/randyknapp.mods.equipmentandquickslots.cfg",
@@ -712,7 +693,7 @@
     {
       "path": "BepInEx/config/server_devcommands.cfg",
       "url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/configs/server_devcommands.cfg",
-      "sha256": "6bef54d1ca2cfb3b2169e86196a633c44215ff93a2a71535c0da06759fb2f5c3"
+      "sha256": "4577c55e6d166e3a6b9fd3d76ada2e18677b9e0fc5873219a8fe2a67f585149c"
     },
     {
       "path": "BepInEx/config/shudnal.ConditionalConfigSync/ConditionalConfigSync.Debug.cfg",

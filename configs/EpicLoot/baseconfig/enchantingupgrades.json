@@ -1,7 +1,7 @@
 {
   "DefaultFeatureLevels": {
     "Sacrifice": 6,
-    "ConvertMaterials": 6,
+    "ConvertMaterials": 3,
     "Enchant": 6,
     "Augment": 6,
     "Disenchant": 6,
@@ -9,7 +9,7 @@
   },
   "MaximumFeatureLevels": {
     "Sacrifice": 6,
-    "ConvertMaterials": 6,
+    "ConvertMaterials": 3,
     "Enchant": 6,
     "Augment": 6,
     "Disenchant": 6,
@@ -78,27 +78,27 @@
         100
       ],
       [
-        3,
+        0,
         102
       ],
       [
-        6,
+        0,
         104
       ],
       [
-        10,
+        0,
         106
       ],
       [
-        15,
+        0,
         108
       ],
       [
-        20,
+        0,
         110
       ],
       [
-        25,
+        0,
         112
       ]
     ],
@@ -194,31 +194,31 @@
     ],
     "Disenchant": [
       [
-        0,
+        100,
         0
       ],
       [
-        3,
+        100,
         0
       ],
       [
-        6,
+        100,
         0
       ],
       [
-        10,
+        100,
         1
       ],
       [
-        15,
+        100,
         2
       ],
       [
-        20,
+        100,
         3
       ],
       [
-        25,
+        100,
         4
       ]
     ],

@@ -46,11 +46,11 @@
       "Products": [
         {
           "Item": "DustMagic",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Item": "EssenceMagic",
-          "Amount": 1
+          "Amount": 2
         }
       ]
     },
@@ -68,11 +68,11 @@
       "Products": [
         {
           "Item": "DustRare",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Item": "EssenceRare",
-          "Amount": 1
+          "Amount": 2
         }
       ]
     },
@@ -90,11 +90,11 @@
       "Products": [
         {
           "Item": "DustEpic",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Item": "EssenceEpic",
-          "Amount": 1
+          "Amount": 2
         }
       ]
     },
@@ -112,11 +112,11 @@
       "Products": [
         {
           "Item": "DustLegendary",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Item": "EssenceLegendary",
-          "Amount": 1
+          "Amount": 2
         }
       ]
     },
@@ -134,11 +134,11 @@
       "Products": [
         {
           "Item": "DustMythic",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Item": "EssenceMythic",
-          "Amount": 1
+          "Amount": 2
         }
       ]
     },
@@ -159,11 +159,11 @@
       "Products": [
         {
           "Item": "DustMagic",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Item": "ReagentMagic",
-          "Amount": 1
+          "Amount": 2
         }
       ]
     },
@@ -184,11 +184,11 @@
       "Products": [
         {
           "Item": "DustRare",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Item": "ReagentRare",
-          "Amount": 1
+          "Amount": 2
         }
       ]
     },
@@ -209,11 +209,11 @@
       "Products": [
         {
           "Item": "DustEpic",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Item": "ReagentEpic",
-          "Amount": 1
+          "Amount": 2
         }
       ]
     },
@@ -234,11 +234,11 @@
       "Products": [
         {
           "Item": "DustLegendary",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Item": "ReagentLegendary",
-          "Amount": 1
+          "Amount": 2
         }
       ]
     },
@@ -259,11 +259,11 @@
       "Products": [
         {
           "Item": "DustMythic",
-          "Amount": 1
+          "Amount": 2
         },
         {
           "Item": "ReagentMythic",
-          "Amount": 1
+          "Amount": 2
         }
       ]
     },
