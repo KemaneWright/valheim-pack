@@ -1,5 +1,5 @@
 {
-  "pack_version": "2026.09.27",
+  "pack_version": "2026.10.01",
   "game": "valheim",
   "manifest_url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/manifest.json",
   "bepinex": {
@@ -144,14 +144,14 @@
     {
       "namespace": "Smoothbrain",
       "name": "Cooking",
-      "version": "1.2.4",
-      "url": "https://cdn.hexium.gg/upload/13/1.2.4.zip"
+      "version": "1.2.5",
+      "url": "https://cdn.hexium.gg/upload/13/1.2.5.zip"
     },
     {
       "namespace": "Smoothbrain",
       "name": "CreatureLevelAndLootControl",
-      "version": "5.0.5",
-      "url": "https://cdn.hexium.gg/upload/342/5.0.5.zip"
+      "version": "5.0.6",
+      "url": "https://cdn.hexium.gg/upload/342/5.0.6.zip"
     },
     {
       "namespace": "Smoothbrain",
@@ -264,8 +264,8 @@
     {
       "namespace": "momos3939",
       "name": "ValheimLegends",
-      "version": "0.7.10",
-      "url": "https://thunderstore.io/package/download/momos3939/ValheimLegends/0.7.10/"
+      "version": "0.7.12",
+      "url": "https://thunderstore.io/package/download/momos3939/ValheimLegends/0.7.12/"
     },
     {
       "namespace": "shudnal",
