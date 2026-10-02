@@ -1,5 +1,5 @@
 {
-  "pack_version": "2026.10.01",
+  "pack_version": "2026.10.02",
   "game": "valheim",
   "manifest_url": "https://raw.githubusercontent.com/KemaneWright/valheim-pack/main/manifest.json",
   "bepinex": {
@@ -24,8 +24,8 @@
     {
       "namespace": "Azumatt",
       "name": "AAA_Crafting",
-      "version": "2.1.10",
-      "url": "https://cdn.hexium.gg/upload/218/2.1.10.zip"
+      "version": "2.1.11",
+      "url": "https://cdn.hexium.gg/upload/218/2.1.11.zip"
     },
     {
       "namespace": "Azumatt",
@@ -42,8 +42,8 @@
     {
       "namespace": "Azumatt",
       "name": "AzuCraftyBoxes",
-      "version": "1.8.26",
-      "url": "https://cdn.hexium.gg/upload/48/1.8.26.zip"
+      "version": "1.8.27",
+      "url": "https://cdn.hexium.gg/upload/48/1.8.27.zip"
     },
     {
       "namespace": "Azumatt",
@@ -108,8 +108,8 @@
     {
       "namespace": "MathiasDecrock",
       "name": "PlanBuild",
-      "version": "0.19.1",
-      "url": "https://thunderstore.io/package/download/MathiasDecrock/PlanBuild/0.19.1/"
+      "version": "0.20.0",
+      "url": "https://thunderstore.io/package/download/MathiasDecrock/PlanBuild/0.20.0/"
     },
     {
       "namespace": "RandyKnapp",
@@ -126,8 +126,8 @@
     {
       "namespace": "RandyKnapp",
       "name": "MinimalStatusEffects",
-      "version": "1.0.7",
-      "url": "https://thunderstore.io/package/download/RandyKnapp/MinimalStatusEffects/1.0.7/"
+      "version": "1.0.8",
+      "url": "https://thunderstore.io/package/download/RandyKnapp/MinimalStatusEffects/1.0.8/"
     },
     {
       "namespace": "Smoothbrain",
